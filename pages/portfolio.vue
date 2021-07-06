@@ -79,10 +79,10 @@
                     >
                       <div class="default-portfolio-item">
                         <a
-                          href="/images/portfolio/01.jpg"
+                          href="images/portfolio/01.jpg"
                           data-fancybox="gallery"
                         >
-                          <img src="/images/portfolio/01.jpg" alt="image" />
+                          <img src="images/portfolio/01.jpg" alt="image" />
                           <div class="overlay-box">
                             <span
                               ><i class="fa fa-eye" aria-hidden="true"></i
@@ -109,10 +109,10 @@
                     >
                       <div class="default-portfolio-item">
                         <a
-                          href="/images/portfolio/02.jpg"
+                          href="images/portfolio/02.jpg"
                           data-fancybox="gallery"
                         >
-                          <img src="/images/portfolio/02.jpg" alt="image" />
+                          <img src="images/portfolio/02.jpg" alt="image" />
                           <div class="overlay-box">
                             <span
                               ><i class="fa fa-eye" aria-hidden="true"></i
@@ -140,10 +140,10 @@
                     >
                       <div class="default-portfolio-item">
                         <a
-                          href="/images/portfolio/03.jpg"
+                          href="images/portfolio/03.jpg"
                           data-fancybox="gallery"
                         >
-                          <img src="/images/portfolio/03.jpg" alt="image" />
+                          <img src="images/portfolio/03.jpg" alt="image" />
                           <div class="overlay-box">
                             <span
                               ><i class="fa fa-eye" aria-hidden="true"></i
@@ -171,10 +171,10 @@
                     >
                       <div class="default-portfolio-item">
                         <a
-                          href="/images/portfolio/04.jpg"
+                          href="images/portfolio/04.jpg"
                           data-fancybox="gallery"
                         >
-                          <img src="/images/portfolio/04.jpg" alt="image" />
+                          <img src="images/portfolio/04.jpg" alt="image" />
                           <div class="overlay-box">
                             <span
                               ><i class="fa fa-eye" aria-hidden="true"></i
@@ -202,10 +202,10 @@
                     >
                       <div class="default-portfolio-item">
                         <a
-                          href="/images/portfolio/05.jpg"
+                          href="images/portfolio/05.jpg"
                           data-fancybox="gallery"
                         >
-                          <img src="/images/portfolio/05.jpg" alt="image" />
+                          <img src="images/portfolio/05.jpg" alt="image" />
                           <div class="overlay-box">
                             <span
                               ><i class="fa fa-eye" aria-hidden="true"></i
@@ -233,10 +233,10 @@
                     >
                       <div class="default-portfolio-item">
                         <a
-                          href="/images/portfolio/06.jpg"
+                          href="images/portfolio/06.jpg"
                           data-fancybox="gallery"
                         >
-                          <img src="/images/portfolio/06.jpg" alt="image" />
+                          <img src="images/portfolio/06.jpg" alt="image" />
                           <div class="overlay-box">
                             <span
                               ><i class="fa fa-eye" aria-hidden="true"></i

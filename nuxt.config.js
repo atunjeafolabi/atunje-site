@@ -19,46 +19,46 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', href: '/css/bootstrap.min.css' },
-      { rel: 'stylesheet', href: '/css/jquery.pagepiling.css' },
-      { rel: 'stylesheet', href: '/css/font-awesome.min.css' },
-      { rel: 'stylesheet', href: '/fonts/flaticon.css' },
-      { rel: 'stylesheet', href: '/css/plugins.css' },
-      { rel: 'stylesheet', href: '/css/style.css' },
-      { rel: 'stylesheet', href: '/css/color.css' },
+      { rel: 'stylesheet', href: 'css/bootstrap.min.css' },
+      { rel: 'stylesheet', href: 'css/jquery.pagepiling.css' },
+      { rel: 'stylesheet', href: 'css/font-awesome.min.css' },
+      { rel: 'stylesheet', href: 'fonts/flaticon.css' },
+      { rel: 'stylesheet', href: 'css/plugins.css' },
+      { rel: 'stylesheet', href: 'css/style.css' },
+      { rel: 'stylesheet', href: 'css/color.css' },
     ],
     script: [
       {
         // type: 'module',
-        src: '/js/jquery.min.js'
+        src: 'js/jquery.min.js'
       },
       {
         // type: 'module',
-        src: '/js/popper.min.js'
+        src: 'js/popper.min.js'
       },
       {
         // type: 'module',
-        src: '/js/bootstrap.min.js'
+        src: 'js/bootstrap.min.js'
       },
       {
         // type: 'module',
-        src: '/js/plugins.js',
+        src: 'js/plugins.js',
       },
       {
         // type: 'module',
-        src: '/js/particles.min.js'
+        src: 'js/particles.min.js'
       },
       {
         // type: 'module',
-        src: '/js/app.js'
+        src: 'js/app.js'
       },
       {
         // type: 'module',
-        src: '/js/jquery.pagepiling.min.js'
+        src: 'js/jquery.pagepiling.min.js'
       },
       {
         // type: 'module',
-        src: '/js/custom.js'
+        src: 'js/custom.js'
       },
     ]
   },

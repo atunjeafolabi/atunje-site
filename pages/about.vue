@@ -7,7 +7,7 @@
             <div class="row">
               <div class="col-md-12 col-lg-12 col-xl-4">
                 <div class="overlay_one">
-                  <img src="/images/about/01.jpg" alt="image" />
+                  <img src="images/about/01.jpg" alt="image" />
                 </div>
               </div>
               <div class="col-md-12 col-lg-12 col-xl-8">

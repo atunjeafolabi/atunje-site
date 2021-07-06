@@ -38,7 +38,7 @@
           <div class="carousel-inner overlay_three">
             <div class="carousel-item active">
               <div class="overlay_one pattan">
-                <img class="" src="/images/slider/01.jpg" alt="slide image" />
+                <img class="" src="images/slider/01.jpg" alt="slide image" />
               </div>
               <div class="carousel-caption">
                 <h1 class="mb_20">
@@ -56,7 +56,7 @@
             </div>
             <div class="carousel-item">
               <div class="overlay_one pattan">
-                <img src="/images/slider/10.jpg" alt="slide image" />
+                <img src="images/slider/10.jpg" alt="slide image" />
               </div>
               <div class="carousel-caption">
                 <h1 class="mb_20">
@@ -74,7 +74,7 @@
             </div>
             <div class="carousel-item">
               <div class="overlay_one pattan">
-                <img src="/images/slider/02.jpg" alt="slide image" />
+                <img src="images/slider/02.jpg" alt="slide image" />
               </div>
               <div class="carousel-caption">
                 <h1 class="mb_20">

@@ -72,7 +72,7 @@
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <div class="mt_lg_30">
-                        <img src="/images/education/01.jpg" alt="image" />
+                        <img src="images/education/01.jpg" alt="image" />
                       </div>
                     </div>
                   </div>
@@ -92,7 +92,7 @@
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <div class="mt_lg_30">
-                        <img src="/images/education/02.jpg" alt="image" />
+                        <img src="images/education/02.jpg" alt="image" />
                       </div>
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
@@ -110,7 +110,7 @@
                   <div class="row">
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <div class="image-block">
-                        <img src="/images/education/03.jpg" alt="image" />
+                        <img src="images/education/03.jpg" alt="image" />
                       </div>
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
@@ -146,7 +146,7 @@
                   <div class="row">
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <div class="image-block">
-                        <img src="/images/education/04.jpg" alt="image" />
+                        <img src="images/education/04.jpg" alt="image" />
                       </div>
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
@@ -182,7 +182,7 @@
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <div class="mt_lg_30">
-                        <img src="/images/education/05.jpg" alt="image" />
+                        <img src="images/education/05.jpg" alt="image" />
                       </div>
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
@@ -220,7 +220,7 @@
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <div class="mt_lg_30">
-                        <img src="/images/education/06.jpg" alt="image" />
+                        <img src="images/education/06.jpg" alt="image" />
                       </div>
                     </div>
                   </div>
@@ -292,7 +292,7 @@
                   </div>
                   <div class="col-md-12 col-lg-5">
                     <div class="personal_video">
-                      <img src="/images/video.jpg" alt="image" />
+                      <img src="images/video.jpg" alt="image" />
                       <a
                         data-fancybox=""
                         class="video-popup"
