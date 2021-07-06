@@ -88,6 +88,6 @@ export default {
   build: {
   },
   router: {
-    base: 'atunje-site'
+    base: '/atunje-site/'
   }
 }
