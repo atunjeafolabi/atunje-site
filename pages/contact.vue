@@ -8,10 +8,7 @@
 		    				================================-->
             <div class="main_title pb_60">
               <h2 class="title color_primary">Contact</h2>
-              <p class="mt_15">
-                Interdum a etiam sagittis vehicula porta. Massa felis eros quam
-                blandit nulla dolor habitant.
-              </p>
+              <p class="mt_15">Reach me via phone or email</p>
             </div>
             <!--	End Title
 		    				================================-->
@@ -27,7 +24,7 @@
                   </div>
                   <div class="contact_text">
                     <h6 class="font-weight-bold color_primary">CALL</h6>
-                    <span class="color_secondery">+6103 6000 8590</span>
+                    <span class="color_secondery">+2347062415800</span>
                   </div>
                 </li>
                 <li>
@@ -36,7 +33,9 @@
                   </div>
                   <div class="contact_text">
                     <h6 class="font-weight-bold color_primary">EMAIL</h6>
-                    <span class="color_secondery">info@yourdomain.com</span>
+                    <span class="color_secondery"
+                      >atunje_afolabi@yahoo.com</span
+                    >
                   </div>
                 </li>
                 <li>
@@ -46,7 +45,8 @@
                   <div class="contact_text">
                     <h6 class="font-weight-bold color_primary">ADDRESS</h6>
                     <span class="color_secondery"
-                      >210 Elizabeth St, Melbourne VIC 3000, Australia.</span
+                      >13, Onanubi Street, New Oko Oba, Agege, Lagos,
+                      Nigeria.</span
                     >
                   </div>
                 </li>
