@@ -5,7 +5,7 @@
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"
         ><i class="flaticon-close-button"></i
       ></a>
-      <img class="nav-logo" src="/images/logo/29.png" alt="image" />
+      <img class="nav-logo" src="images/logo/29.png" alt="image" />
       <ul id="menu" onClick="openNav()">
         <li class="active">
           <NuxtLink to="/">Home</NuxtLink>
@@ -28,7 +28,7 @@
     <div class="sidebar bg_primary">
       <div class="logo text-center">
         <a href="#page1"
-          ><img class="nav-logo" src="/images/logo/29.png" alt="logo"
+          ><img class="nav-logo" src="images/logo/29.png" alt="logo"
         /></a>
       </div>
       <span style="cursor: pointer" onclick="openNav()">&#9776;</span>
@@ -64,3 +64,9 @@
     </script>
   </div>
 </template>
+<style scoped>
+#mysidenav,
+.sidebar.bg_primary {
+  box-shadow: 35px 0px 20px -40px #979797;
+}
+</style>

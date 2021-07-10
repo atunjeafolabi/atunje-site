@@ -609,7 +609,7 @@ ul#menu li a{
     position: relative;
 }
 .pattan:after{
-    content: "";
+    /* content: ""; */
     position: absolute;
     top: 0;
     bottom: 0;
