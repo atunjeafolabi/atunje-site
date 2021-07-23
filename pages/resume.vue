@@ -6,17 +6,12 @@
       <div class="row">
         <div class="col-md-12 col-lg-12" style="margin-left: 30px">
           <div class="education_experience">
-            <!--	Start Title
-	    					================================-->
             <div class="main_title my_60">
               <h2 class="title color_primary">Education & Experience</h2>
               <p class="mt_15">
-                Interdum a etiam sagittis vehicula porta. Massa felis eros quam
-                blandit nulla dolor habitant.
+                <a href="OLATUNJI_AFOLABI_CV.pdf" target="_blank">Download my resume <i class="fa fa-download"></i></a>
               </p>
             </div>
-            <!--	End Title
-	    					================================-->
             <ul id="pills-tab" class="nav nav-pills" role="tablist">
               <li class="nav-item">
                 <a
@@ -52,86 +47,171 @@
               >
                 <div class="company pb_60">
                   <div class="row">
-                    <div class="col-md-12 col-lg-6 col-xl-4">
-                      <h1 class="color_lightgray font-weight-bold">01.</h1>
-                      <h4 class="color_primary font-weight-bold">
-                        Work in company “themeforest”
-                      </h4>
-                      <span class="color_secondery">2017 -2018</span>
-                    </div>
-                    <div class="col-md-12 col-lg-6 col-xl-4">
-                      <p>
-                        Accumsan nibh. Amet erat curae; scelerisque euismod arcu
-                        scelerisque pede sociis molestie sociosqu mus consequat
-                        feugiat vulputate. Commodo semper porta. Sed. Ultrices
-                        ultrices orci pharetra. Per et mi sem sem facilisi
-                        nonummy. Vivamus tortor arcu semper massa est accumsan.
-                        Litora nullam Integer aenean. Vivamus tortor arcu semper
-                        massa est accumsan.
-                      </p>
-                    </div>
-                    <div class="col-md-12 col-lg-12 col-xl-4">
-                      <div class="mt_lg_30">
-                        <img src="images/education/01.jpg" alt="image" />
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="company pb_60">
-                  <div class="row">
-                    <div class="col-md-12 col-lg-12 col-xl-4">
-                      <p>
-                        Accumsan nibh. Amet erat curae; scelerisque euismod arcu
-                        scelerisque pede sociis molestie sociosqu mus consequat
-                        feugiat vulputate. Commodo semper porta. Sed. Ultrices
-                        ultrices orci pharetra. Per et mi sem sem facilisi
-                        nonummy. Vivamus tortor arcu semper massa est accumsan.
-                        Litora nullam Integer aenean. Vivamus tortor arcu semper
-                        massa est accumsan.
-                      </p>
-                    </div>
-                    <div class="col-md-12 col-lg-12 col-xl-4">
-                      <div class="mt_lg_30">
-                        <img src="images/education/02.jpg" alt="image" />
-                      </div>
-                    </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <h1 class="color_lightgray font-weight-bold mt_lg_30">
-                        02.
+                        01.
                       </h1>
                       <h4 class="color_primary font-weight-bold">
-                        Work in company “Envato”
+                        Software Developer
                       </h4>
-                      <span class="color_secondery">2016 - 2017</span>
+                      <h6 class="color_primary font-weight-bold">
+                        Cyber Fleet Integrated Limited | Lagos, Nigeria
+                      </h6>
+                      <span class="color_secondery">OCT 2020 - Present</span>
                     </div>
-                  </div>
-                </div>
-                <div class="company pb_60">
-                  <div class="row">
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <div class="image-block">
                         <img src="images/education/03.jpg" alt="image" />
                       </div>
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
+                      <ul>
+                        <li>
+                          Enhancement of existing features for the compnay's
+                          ﬂagship product - Learning Management System
+                        </li>
+                        <li>
+                          Development of new features using Laravel framework
+                          and jquery.
+                        </li>
+                        <li>
+                          Proper documentation and testing of newly developed
+                          features.
+                        </li>
+                        <li>
+                          Continuous refactoring of the codebase to enhance
+                          readability
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <hr />
+                <div class="company pb_60">
+                  <div class="row">
+                    <div class="col-md-12 col-lg-12 col-xl-4">
+                      <h1 class="color_lightgray font-weight-bold mt_lg_30">
+                        02.
+                      </h1>
+                      <h4 class="color_primary font-weight-bold">
+                        Fullstack Developer
+                      </h4>
+                      <h6 class="color_primary font-weight-bold">
+                        Edeco Technology Limited | Lagos, Nigeria
+                      </h6>
+                      <span class="color_secondery">JUL 2019 - JUL 2020</span>
+                    </div>
+                    <div class="col-md-12 col-lg-12 col-xl-4">
+                      <div class="image-block">
+                        <img src="images/education/03.jpg" alt="image" />
+                      </div>
+                    </div>
+                    <div class="col-md-12 col-lg-12 col-xl-4">
+                      <ul>
+                        <li>
+                          I developed backend API endpoints with the Symfony
+                          framework.
+                        </li>
+                        <li>
+                          Involved in converting HTML/CSS designs into
+                          functional VueJS app Participated in code reviews
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <hr />
+                <div class="company pb_60">
+                  <div class="row">
+                    <div class="col-md-12 col-lg-12 col-xl-4">
                       <h1 class="color_lightgray font-weight-bold mt_lg_30">
                         03.
                       </h1>
                       <h4 class="color_primary font-weight-bold">
-                        Work in company “wcschoole”
+                        Web Developer
                       </h4>
-                      <span class="color_secondery">2013 - 2015</span>
+                      <h6 class="color_primary font-weight-bold">
+                        Techie Planet Limited | Lagos, Nigeria
+                      </h6>
+                      <span class="color_secondery">MAR 2017 - FEB 2019</span>
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
-                      <p>
-                        Accumsan nibh. Amet erat curae; scelerisque euismod arcu
-                        scelerisque pede sociis molestie sociosqu mus consequat
-                        feugiat vulputate. Commodo semper porta. Sed. Ultrices
-                        ultrices orci pharetra. Per et mi sem sem facilisi
-                        nonummy. Vivamus tortor arcu semper massa est accumsan.
-                        Litora nullam Integer aenean. Vivamus tortor arcu semper
-                        massa est accumsan.
-                      </p>
+                      <div class="image-block">
+                        <img src="images/education/03.jpg" alt="image" />
+                      </div>
+                    </div>
+                    <div class="col-md-12 col-lg-12 col-xl-4">
+                      <ul>
+                        <li>
+                          Involved in daily stand-ups and close collaboration
+                          with the development team for planning new product
+                          features.
+                        </li>
+                        <li>
+                          Built secure API endpoints using Yii2 (PHP framework)
+                          and did client-side programming using Javascript.
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <hr>
+                <div class="company pb_60">
+                  <div class="row">
+                    <div class="col-md-12 col-lg-12 col-xl-4">
+                      <h1 class="color_lightgray font-weight-bold mt_lg_30">
+                        04.
+                      </h1>
+                      <h4 class="color_primary font-weight-bold">
+                        Web Developer
+                      </h4>
+                      <h6 class="color_primary font-weight-bold">Freelance</h6>
+                      <span class="color_secondery">JUL 2016 - FEB 2017</span>
+                    </div>
+                    <div class="col-md-12 col-lg-12 col-xl-4">
+                      <div class="image-block">
+                        <img src="images/education/03.jpg" alt="image" />
+                      </div>
+                    </div>
+                    <div class="col-md-12 col-lg-12 col-xl-4">
+                      <ul>
+                        <li>
+                          Developed websites for individuals and also assisted
+                          shops and small companies in having an online presence
+                          by building custom web applications to support their
+                          businesses.
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <hr>
+                <div class="company pb_60">
+                  <div class="row">
+                    <div class="col-md-12 col-lg-12 col-xl-4">
+                      <h1 class="color_lightgray font-weight-bold mt_lg_30">
+                        05.
+                      </h1>
+                      <h4 class="color_primary font-weight-bold">Engineering Trainee and Instructor</h4>
+                      <h6 class="color_primary font-weight-bold">
+                        National Service (NYSC)
+                      </h6>
+                      <span class="color_secondery">JUL 2015 -MAY 2016</span>
+                    </div>
+                    <div class="col-md-12 col-lg-12 col-xl-4">
+                      <div class="image-block">
+                        <img src="images/education/03.jpg" alt="image" />
+                      </div>
+                    </div>
+                    <div class="col-md-12 col-lg-12 col-xl-4">
+                      <ul>
+                        <li>
+                          <li>Majorly, I taught students at a technical academy
+                          physics and the basics of electrical engineering.</li> 
+                          <li>I also learned the fundamentals of Programmable Logic
+                          Controllers(Siemens Simatic S7-300) for industrial automation.</li>
+                        </li>
+                      </ul>
                     </div>
                   </div>
                 </div>
@@ -145,82 +225,37 @@
                 <div class="company pb_60">
                   <div class="row">
                     <div class="col-md-12 col-lg-12 col-xl-4">
-                      <div class="image-block">
-                        <img src="images/education/04.jpg" alt="image" />
-                      </div>
-                    </div>
-                    <div class="col-md-12 col-lg-12 col-xl-4">
-                      <p class="mt_lg_30">
-                        Accumsan nibh. Amet erat curae; scelerisque euismod arcu
-                        scelerisque pede sociis molestie sociosqu mus consequat
-                        feugiat vulputate. Commodo semper porta. Sed. Ultrices
-                        ultrices orci pharetra. Per et mi sem sem facilisi
-                        nonummy. Vivamus tortor arcu semper massa est accumsan.
-                        Litora nullam Integer aenean. Vivamus tortor arcu semper
-                        massa est accumsan.
-                      </p>
-                    </div>
-                    <div class="col-md-12 col-lg-12 col-xl-4">
                       <h1 class="color_lightgray font-weight-bold mt_lg_30">
                         01.
                       </h1>
-                      <h4 class="color_primary font-weight-bold">
-                        Complete course “Wordpress”
-                      </h4>
-                      <span class="color_secondery">2015 - 2016</span>
-                    </div>
-                  </div>
-                </div>
-                <div class="company pb_60">
-                  <div class="row">
-                    <div class="col-md-12 col-lg-12 col-xl-4">
-                      <h1 class="color_lightgray font-weight-bold">02.</h1>
-                      <h4 class="color_primary font-weight-bold">
-                        Complete course “PHP”
-                      </h4>
-                      <span class="color_secondery">2011 - 2013</span>
+                      <h4 class="color_primary font-weight-bold">Bachelor's Degree</h4>
+                      <h6 class="color_primary font-weight-bold">
+                        University of Lagos | Lagos, Nigeria
+                      </h6>
+                      <span class="color_secondery">OCT 2009 - FEB 2015</span>
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
-                      <div class="mt_lg_30">
-                        <img src="images/education/05.jpg" alt="image" />
+                      <div class="image-block">
+                        <img src="images/education/03.jpg" alt="image" />
                       </div>
                     </div>
-                    <div class="col-md-12 col-lg-12 col-xl-4">
-                      <p class="mt_lg_30">
-                        Accumsan nibh. Amet erat curae; scelerisque euismod arcu
-                        scelerisque pede sociis molestie sociosqu mus consequat
-                        feugiat vulputate. Commodo semper porta. Sed. Ultrices
-                        ultrices orci pharetra. Per et mi sem sem facilisi
-                        nonummy. Vivamus tortor arcu semper massa est accumsan.
-                        Litora nullam Integer aenean. Vivamus tortor arcu semper
-                        massa est accumsan.
-                      </p>
-                    </div>
                   </div>
                 </div>
                 <div class="company pb_60">
                   <div class="row">
                     <div class="col-md-12 col-lg-12 col-xl-4">
-                      <p>
-                        Accumsan nibh. Amet erat curae; scelerisque euismod arcu
-                        scelerisque pede sociis molestie sociosqu mus consequat
-                        feugiat vulputate. Commodo semper porta. Sed. Ultrices
-                        ultrices orci pharetra. Per et mi sem sem facilisi
-                        nonummy. Vivamus tortor arcu semper massa est accumsan.
-                        Litora nullam Integer aenean. Vivamus tortor arcu semper
-                        massa est accumsan.
-                      </p>
+                      <h1 class="color_lightgray font-weight-bold mt_lg_30">
+                        02.
+                      </h1>
+                      <h4 class="color_primary font-weight-bold">Master's Degree (95% complete)</h4>
+                      <h6 class="color_primary font-weight-bold">
+                        University of Lagos | Lagos, Nigeria
+                      </h6>
+                      <span class="color_secondery">OCT 2018 - 2021</span>
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
-                      <h1 class="color_lightgray font-weight-bold">03.</h1>
-                      <h4 class="color_primary font-weight-bold">
-                        Complete course “HTML & CSS”
-                      </h4>
-                      <span class="color_secondery">2008 - 2010</span>
-                    </div>
-                    <div class="col-md-12 col-lg-12 col-xl-4">
-                      <div class="mt_lg_30">
-                        <img src="images/education/06.jpg" alt="image" />
+                      <div class="image-block">
+                        <img src="images/education/03.jpg" alt="image" />
                       </div>
                     </div>
                   </div>
@@ -276,8 +311,13 @@
         </div>
       </div>
       <div class="copyright2 p_20 color_lightgray bg_primary text-center">
-        <p>Runaway @ 2020. All Right Reserved.</p>
+        <p>Atunje</p>
       </div>
     </div>
   </div>
 </template>
+<style>
+.company ul li {
+  border-bottom: 2px solid #1e283c;
+}
+</style>
