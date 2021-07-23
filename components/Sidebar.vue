@@ -35,19 +35,26 @@
       <div class="socal_media mt_60">
         <ul>
           <li>
-            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href="https://github.com/atunjeafolabi " target="_blank"
+              ><i class="fa fa-github" aria-hidden="true"></i
+            ></a>
           </li>
           <li>
-            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a href="https://web.facebook.com/tunji.afolabi2/" target="_blank"
+              ><i class="fa fa-facebook" aria-hidden="true"></i
+            ></a>
           </li>
           <li>
-            <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+            <a href="https://twitter.com/atunje_afo" target="_blank"
+              ><i class="fa fa-twitter" aria-hidden="true"></i
+            ></a>
           </li>
           <li>
-            <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-          </li>
-          <li>
-            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+            <a
+              href="https://linkedin.com/in/afolabi-olatunji-b4348b70"
+              target="_blank"
+              ><i class="fa fa-linkedin" aria-hidden="true"></i
+            ></a>
           </li>
         </ul>
       </div>
