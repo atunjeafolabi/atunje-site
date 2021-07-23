@@ -29,10 +29,25 @@
                 <h3 class="color_default">SOFTWARE DEVELOPER</h3>
               </h1>
               <p class="mb_20">
-                PHP 7, Laravel, Symfony, Yii2, Javascript, jQuery, VueJS,
-                NodeJS/Express, Typescript, Linux Bash, Docker,Java, TDD, SOLID
-                and DRY Principles, Database Mysql, Postgresql, MongoDB, OOP,
-                MVC & REST APIs
+                <span class="badge badge-primary">PHP 7</span>
+                <span class="badge badge-danger">Laravel</span>
+                <span class="badge badge-success">Symfony</span>
+                <span class="badge badge-danger">Javascript</span>
+                <span class="badge badge-info">VueJS</span>
+                <span class="badge badge-success">NodeJS/Express</span>
+                <span class="badge badge-info">Typescript</span>
+                <span class="badge badge-warning">Bash</span>
+                <span class="badge badge-primary">Docker</span>
+                <span class="badge badge-warning">Java</span>
+                <span class="badge badge-dark">TDD</span>
+                <span class="badge badge-success">SOLID</span>
+                <span class="badge badge-light">DRY</span>
+                <span class="badge badge-info">Mysql</span>
+                <span class="badge badge-warning">Postgresql</span>
+                <span class="badge badge-success">MongoDB</span>
+                <span class="badge badge-warning">OOP</span>
+                <span class="badge badge-danger">MVC</span>
+                <span class="badge badge-light">RestAPIs</span>
               </p>
               <NuxtLink to="/resume" class="btn btn-default"
                 >View my Resume</NuxtLink

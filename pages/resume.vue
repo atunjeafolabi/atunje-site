@@ -231,46 +231,6 @@
         </div>
       </div>
     </div>
-    <!-- </div> -->
-    <!-- <div class="row">
-      <div class="col-md-12 col-lg-12">
-        <div class="video my_60 pl_120">
-          <div class="row">
-            <div class="col-md-12 col-lg-7">
-              <div class="video_content ml_105 mb_md_30">
-                <h2 class="color_default">My professional video</h2>
-                <p class="color_white">
-                  Suscipit malesuada venenatis. Orci a enim sapien ad elit ac.
-                  Pretium class. Quis ad Fusce et, mus eleifend nibh neque at
-                  ullamcorper hac eu est. Ad. Dignissim lorem nostra. Et non,
-                  posuere pharetra fames. Facilisi. Venenatis integer pharetra
-                  gravida.
-                </p>
-              </div>
-            </div>
-            <div class="col-md-12 col-lg-5">
-              <div class="personal_video">
-                <img src="images/video.jpg" alt="image" />
-                <a
-                  data-fancybox=""
-                  class="video-popup"
-                  href="https://www.youtube.com/watch?v=pWOv9xcoMeY"
-                >
-                  <i class="fa fa-play" aria-hidden="true"></i
-                ></a>
-                <div class="loader xy-center">
-                  <div class="loader-inner ball-scale-multiple">
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div> -->
     <div class="footer pt_60 background6">
       <div class="footer_bottom pb_60 md_pl_80">
         <div class="container">
