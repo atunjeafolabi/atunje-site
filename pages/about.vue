@@ -30,15 +30,50 @@
                           to ascertain their merits and shortcomings. Afterward,
                           I find a way to add the worthy ones to my tech arsenal
                           and also apply them in my day-to-day work to reap
-                          maximum benefits. Although I am not a computer science
-                          graduate, my engineering background coupled with
-                          tenacity has immensely helped me thrive in the
-                          software ecosystem. As an autodidact, I have garnered
-                          relevant technical skills and I am competent enough
-                          using mainstream tech stacks often employed in
-                          creating robust, scalable, and high-performance
-                          software systems.
+                          maximum benefits.
                         </p>
+                        <p>
+                          Although I am not a computer science graduate, my
+                          engineering background coupled with tenacity has
+                          immensely helped me thrive in the software ecosystem.
+                          As an autodidact, I have garnered relevant technical
+                          skills and I am competent enough using mainstream tech
+                          stacks often employed in creating robust, scalable,
+                          and high-performance software systems.
+                        </p>
+                        <h4 class="mt-4">INTERESTS</h4>
+                        <p>
+                          Aside from coding, I like dabbling into other
+                          technical domains like electrical, mechanical and
+                          plumbing repairs. As a strong enthusiast of DIY, I am
+                          always excited to fix faulty electrical connections
+                          and gadgets or fix broken pipes, taps etc. I also like
+                          doing some Sudoku puzzles whenever I have free time.
+                        </p>
+                        <h4 class="mt-4">MUSIC</h4>
+                        <p>
+                          Indie folk, Orchestral Symphonies, New Age and
+                          Traditional Nigerian Music are genres I enjoy the
+                          most. Particularly, I love the euphonious sound of the
+                          Cathedral Pipe Organ; the king of all music
+                          instruments
+                        </p>
+                        <h4 class="mt-4">PERSONAL QUALITIES</h4>
+                        <ol>
+                          <li>
+                            Dogged, focused and continually willing to learn and
+                            explore
+                          </li>
+                          <li>Hard working</li>
+                          <li>Self-Motivated and good sense of humour</li>
+                          <li>
+                            Analytic ability and Effective time management
+                          </li>
+                          <li>
+                            Excellent oral and written communication Teamwork
+                          </li>
+                          <li>Teamwork</li>
+                        </ol>
                       </div>
                     </div>
                   </div>
@@ -47,6 +82,54 @@
             </div>
           </div>
         </div>
+      </div>
+    </div>
+    <div class="footer pt_60 background6">
+      <div class="footer_bottom pb_60 md_pl_80">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 col-lg-12">
+              <div class="video my_60 pl_120">
+                <div class="row">
+                  <div class="col-md-12 col-lg-7">
+                    <div class="video_content">
+                      <h2 class="color_default">My professional video</h2>
+                      <p class="color_white">
+                        Suscipit malesuada venenatis. Orci a enim sapien ad elit
+                        ac. Pretium class. Quis ad Fusce et, mus eleifend nibh
+                        neque at ullamcorper hac eu est. Ad. Dignissim lorem
+                        nostra. Et non, posuere pharetra fames. Facilisi.
+                        Venenatis integer pharetra gravida.
+                      </p>
+                    </div>
+                  </div>
+                  <div class="col-md-12 col-lg-5">
+                    <div class="personal_video">
+                      <img src="images/video.jpg" alt="image" />
+                      <a
+                        data-fancybox=""
+                        class="video-popup"
+                        href="https://www.youtube.com/watch?v=pWOv9xcoMeY"
+                      >
+                        <i class="fa fa-play" aria-hidden="true"></i
+                      ></a>
+                      <div class="loader xy-center">
+                        <div class="loader-inner ball-scale-multiple">
+                          <div></div>
+                          <div></div>
+                          <div></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="copyright2 p_20 color_lightgray bg_primary text-center">
+        <p>Atunje</p>
       </div>
     </div>
   </div>

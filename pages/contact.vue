@@ -8,7 +8,7 @@
 		    				================================-->
             <div class="main_title pb_60">
               <h2 class="title color_primary">Contact</h2>
-              <p class="mt_15">Reach me via phone or email</p>
+              <p class="mt_15">Reach me via phone, email or drop a message</p>
             </div>
             <!--	End Title
 		    				================================-->
@@ -25,6 +25,8 @@
                   <div class="contact_text">
                     <h6 class="font-weight-bold color_primary">CALL</h6>
                     <span class="color_secondery">+2347062415800</span>
+                    <br />
+                    <span class="color_secondery">+2348090881582</span>
                   </div>
                 </li>
                 <li>
