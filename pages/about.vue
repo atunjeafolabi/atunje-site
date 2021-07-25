@@ -93,13 +93,9 @@
                 <div class="row">
                   <div class="col-md-12 col-lg-7">
                     <div class="video_content">
-                      <h2 class="color_default">My professional video</h2>
+                      <h2 class="color_default">See me speaking ...</h2>
                       <p class="color_white">
-                        Suscipit malesuada venenatis. Orci a enim sapien ad elit
-                        ac. Pretium class. Quis ad Fusce et, mus eleifend nibh
-                        neque at ullamcorper hac eu est. Ad. Dignissim lorem
-                        nostra. Et non, posuere pharetra fames. Facilisi.
-                        Venenatis integer pharetra gravida.
+                        A short video introcution about myself.
                       </p>
                     </div>
                   </div>

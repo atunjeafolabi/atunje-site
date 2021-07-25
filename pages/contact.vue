@@ -47,8 +47,7 @@
                   <div class="contact_text">
                     <h6 class="font-weight-bold color_primary">ADDRESS</h6>
                     <span class="color_secondery"
-                      >13, Onanubi Street, New Oko Oba, Agege, Lagos,
-                      Nigeria.</span
+                      >New Oko Oba, Agege, Lagos, Nigeria.</span
                     >
                   </div>
                 </li>

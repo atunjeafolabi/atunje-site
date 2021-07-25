@@ -18,10 +18,11 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: '/images/favicon.ico' },
       { rel: 'stylesheet', href: 'css/bootstrap.min.css' },
       { rel: 'stylesheet', href: 'css/jquery.pagepiling.css' },
-      { rel: 'stylesheet', href: 'css/font-awesome.min.css' },
+      { rel: 'stylesheet', href: 'css/fontawesome-free/css/fontawesome.min.css' },
+      { rel: 'stylesheet', href: 'css/fontawesome-free/css/all.min.css' },
       { rel: 'stylesheet', href: 'fonts/flaticon.css' },
       { rel: 'stylesheet', href: 'css/plugins.css' },
       { rel: 'stylesheet', href: 'css/style.css' },

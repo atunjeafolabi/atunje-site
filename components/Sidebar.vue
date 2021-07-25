@@ -5,7 +5,12 @@
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"
         ><i class="flaticon-close-button"></i
       ></a>
-      <img class="nav-logo" src="images/logo/29.png" alt="image" />
+      <img
+        class="nav-logo rounded-circle"
+        src="images/atunje.jpeg"
+        alt="image"
+        style="width: 64px; height: 64px"
+      />
       <ul id="menu" onClick="openNav()">
         <li class="active">
           <NuxtLink to="/">Home</NuxtLink>
@@ -15,7 +20,7 @@
           <NuxtLink to="/resume">Resume</NuxtLink>
         </li>
         <li data-menuanchor="page4">
-          <NuxtLink to="/services">Services</NuxtLink>
+          <NuxtLink to="/stack">Tech Stack</NuxtLink>
         </li>
         <li data-menuanchor="page5">
           <NuxtLink to="/portfolio">Portfolio</NuxtLink>
@@ -26,34 +31,40 @@
       </ul>
     </div>
     <div class="sidebar bg_primary">
-      <div class="logo text-center">
-        <a href="#page1"
-          ><img class="nav-logo" src="images/logo/29.png" alt="logo"
-        /></a>
+      <div class="text-center">
+        <a href="#page1" class="text-white">
+          <!-- <i class="fas fa-terminal"></i> -->
+          <img
+            class="nav-logo rounded-circle"
+            src="images/atunje.jpeg"
+            alt="image"
+            style="width: 64px; height: 64px"
+          />
+        </a>
       </div>
       <span style="cursor: pointer" onclick="openNav()">&#9776;</span>
       <div class="socal_media mt_60">
         <ul>
           <li>
             <a href="https://github.com/atunjeafolabi " target="_blank"
-              ><i class="fa fa-github" aria-hidden="true"></i
+              ><i class="fab fa-github" aria-hidden="true"></i
             ></a>
           </li>
           <li>
             <a href="https://web.facebook.com/tunji.afolabi2/" target="_blank"
-              ><i class="fa fa-facebook" aria-hidden="true"></i
+              ><i class="fab fa-facebook" aria-hidden="true"></i
             ></a>
           </li>
           <li>
             <a href="https://twitter.com/atunje_afo" target="_blank"
-              ><i class="fa fa-twitter" aria-hidden="true"></i
+              ><i class="fab fa-twitter" aria-hidden="true"></i
             ></a>
           </li>
           <li>
             <a
               href="https://linkedin.com/in/afolabi-olatunji-b4348b70"
               target="_blank"
-              ><i class="fa fa-linkedin" aria-hidden="true"></i
+              ><i class="fab fa-linkedin" aria-hidden="true"></i
             ></a>
           </li>
         </ul>

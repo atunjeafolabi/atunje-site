@@ -4,17 +4,10 @@
       <div class="portfolio2 my_60">
         <div class="row">
           <div class="col-md-12 col-lg-12">
-            <!--	Start Title
-		    				================================-->
             <div class="main_title pb_60">
               <h2 class="title color_primary">Portfolio</h2>
-              <p class="mt_15">
-                Interdum a etiam sagittis vehicula porta. Massa felis eros quam
-                blandit nulla dolor habitant.
-              </p>
+              <p class="mt_15">A few of the projects I have worked on ...</p>
             </div>
-            <!--	End Title
-		    				================================-->
           </div>
           <div class="col-md-12 col-lg-12">
             <div class="my_portfolio" id="tab-panel">
