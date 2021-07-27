@@ -3,15 +3,15 @@
     <PreLoader />
     <div id="mysidenav" class="sidenav">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"
-        ><i class="flaticon-close-button"></i
-      ></a>
+        >&times;</a
+      >
       <img
         class="nav-logo rounded-circle"
         src="images/atunje.jpeg"
         alt="image"
         style="width: 64px; height: 64px"
       />
-      <ul id="menu" onClick="openNav()">
+      <ul id="menu" onClick="closeNav()">
         <li class="active">
           <NuxtLink to="/">Home</NuxtLink>
         </li>
@@ -31,17 +31,12 @@
       </ul>
     </div>
     <div class="sidebar bg_primary">
-      <div class="text-center">
-        <a href="#page1" class="text-white">
-          <!-- <i class="fas fa-terminal"></i> -->
-          <img
-            class="nav-logo rounded-circle"
-            src="images/atunje.jpeg"
-            alt="image"
-            style="width: 64px; height: 64px"
-          />
-        </a>
-      </div>
+      <img
+        class="nav-logo rounded-circle"
+        src="images/atunje.jpeg"
+        alt="image"
+        style="width: 64px; height: 64px"
+      />
       <span style="cursor: pointer" onclick="openNav()">&#9776;</span>
       <div class="socal_media mt_60">
         <ul>

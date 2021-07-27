@@ -229,11 +229,11 @@
                       <span class="color_secondery">OCT 2009 - FEB 2015</span>
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
-                      <div class="image-block">
-                        <a href="https://unilag.edu.ng" target="_blank"
-                          ><img src="images/unilag_logo.png" alt="image"
-                        /></a>
-                      </div>
+                      <!-- <div class="image-block"> -->
+                      <a href="https://unilag.edu.ng" target="_blank"
+                        ><img src="images/unilag_logo.png" alt="image"
+                      /></a>
+                      <!-- </div> -->
                     </div>
                   </div>
                 </div>

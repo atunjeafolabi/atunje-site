@@ -72,10 +72,13 @@
                     >
                       <div class="default-portfolio-item">
                         <a
-                          href="images/portfolio/01.jpg"
+                          href="images/portfolio/truckademy.png"
                           data-fancybox="gallery"
                         >
-                          <img src="images/portfolio/01.jpg" alt="image" />
+                          <img
+                            src="images/portfolio/truckademy.png"
+                            alt="image"
+                          />
                           <div class="overlay-box">
                             <span
                               ><i class="fa fa-eye" aria-hidden="true"></i
@@ -102,10 +105,10 @@
                     >
                       <div class="default-portfolio-item">
                         <a
-                          href="images/portfolio/02.jpg"
+                          href="images/portfolio/roast.png"
                           data-fancybox="gallery"
                         >
-                          <img src="images/portfolio/02.jpg" alt="image" />
+                          <img src="images/portfolio/roast.png" alt="image" />
                           <div class="overlay-box">
                             <span
                               ><i class="fa fa-eye" aria-hidden="true"></i
@@ -133,10 +136,13 @@
                     >
                       <div class="default-portfolio-item">
                         <a
-                          href="images/portfolio/03.jpg"
+                          href="images/portfolio/klassconnect.png"
                           data-fancybox="gallery"
                         >
-                          <img src="images/portfolio/03.jpg" alt="image" />
+                          <img
+                            src="images/portfolio/klassconnect.png"
+                            alt="image"
+                          />
                           <div class="overlay-box">
                             <span
                               ><i class="fa fa-eye" aria-hidden="true"></i

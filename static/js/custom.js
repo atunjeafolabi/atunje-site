@@ -1,31 +1,3 @@
-//====================================================================================
-
-//    Template Name: Runaway - Personal Portfolio HTML Template
-//    Version: 2.3.4
-//    Author: themetrading
-//    Email: themetrading@gmail.com
-//    Developed By: themetrading
-//    First Release: 08 February 2019
-//    Last Update : 19 July 2020
-//    Author URL: www.themetrading.com
-
-//=====================================================================================
-
-//  01.   Preloader For Hide loader
-//  02.   Scroll Top
-//  03.   Navbar scrolling navbar Fixed
-//  04.   Services Slider
-//  05.   Team Slider
-//  06.   Testimonial Slider
-//  07.   Fact Counter
-//  08.   LightBox / Fancybox
-//  09.   Gallery With Filters List
-//  10.   Youtube and Vimeo video popup control
-//  11.   Water Effect
-//  12.   Contact Form Validation
-
-//=====================================================================================
-
 (function ($) {
   "use strict";
 

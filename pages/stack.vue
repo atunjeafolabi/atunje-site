@@ -29,9 +29,8 @@
             </div>
             <h3 class="font-weight-bold color_primary">Laravel</h3>
             <p>
-              With about 4 years of development experience using Laravel, I have
-              built JSON RestAPIs, and traditional web applications with the the
-              framework.
+              With about 4 years of experience using Laravel framework, I have
+              built JSON RestAPIs, and traditional web applications
             </p>
           </div>
           <div class="service_one text-center p_30">
@@ -40,7 +39,10 @@
               <!-- <span class="flaticon-wordpress-logo"></span> -->
             </div>
             <h3 class="font-weight-bold color_primary">Symfony</h3>
-            <p>I have about 2 years experience with Symfony.</p>
+            <p>
+              I have about 2 years development experience with Symfony for JSON
+              RestAPIs.
+            </p>
           </div>
           <div class="service_one text-center p_30">
             <div class="srvicon bg_default color_white mx-auto mb_20">
