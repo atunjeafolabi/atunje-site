@@ -12,7 +12,7 @@
         style="width: 64px; height: 64px"
       />
       <ul id="menu" onClick="closeNav()">
-        <li class="active">
+        <li>
           <NuxtLink to="/">Home</NuxtLink>
         </li>
         <li><NuxtLink to="/about">About</NuxtLink></li>
@@ -32,10 +32,10 @@
     </div>
     <div class="sidebar bg_primary">
       <img
-        class="nav-logo rounded-circle"
+        class="nav-logo rounded-circle d-none d-sm-block"
         src="images/atunje.jpeg"
         alt="image"
-        style="width: 64px; height: 64px"
+        style="width: 64px; height: auto"
       />
       <span style="cursor: pointer" onclick="openNav()">&#9776;</span>
       <div class="socal_media mt_60">
@@ -71,6 +71,21 @@
       ></NuxtLink>
     </div>
     <script>
+      //=====================================================================================
+      //  01.   Preloader For Hide loader
+      //=====================================================================================
+
+      function handlePreloader() {
+        if ($('.preloader').length) {
+          $('.preloader').delay(500).fadeOut(500)
+          $('body').removeClass('page-load')
+        }
+      }
+
+      $(window).on('load', function () {
+        handlePreloader()
+      })
+
       // Hide preloader after navigating back to index
       $('.preloader').delay(500).fadeOut(500)
       $('body').removeClass('page-load')
@@ -78,6 +93,10 @@
   </div>
 </template>
 <style scoped>
+#mysidenav {
+  z-index: 9999;
+}
+
 #mysidenav,
 .sidebar.bg_primary {
   box-shadow: 35px 0px 20px -40px #979797;

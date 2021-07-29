@@ -20,7 +20,7 @@ export default {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/images/favicon.ico' },
       { rel: 'stylesheet', href: 'css/bootstrap.min.css' },
-      { rel: 'stylesheet', href: 'css/jquery.pagepiling.css' },
+      // { rel: 'stylesheet', href: 'css/jquery.pagepiling.css' },
       { rel: 'stylesheet', href: 'css/fontawesome-free/css/fontawesome.min.css' },
       { rel: 'stylesheet', href: 'css/fontawesome-free/css/all.min.css' },
       { rel: 'stylesheet', href: 'fonts/flaticon.css' },
@@ -31,36 +31,39 @@ export default {
     script: [
       {
         // type: 'module',
-        src: 'js/jquery.min.js'
+        src: 'js/jquery.min.js',
+        body: true
       },
       {
         // type: 'module',
-        src: 'js/popper.min.js'
+        src: 'js/popper.min.js',
+        body: true
       },
       {
         // type: 'module',
-        src: 'js/bootstrap.min.js'
+        src: 'js/bootstrap.min.js',
+        body: true
       },
       {
         // type: 'module',
         src: 'js/plugins.js',
+        body: true
       },
-      {
-        // type: 'module',
-        src: 'js/particles.min.js'
-      },
-      {
-        // type: 'module',
-        src: 'js/app.js'
-      },
-      {
-        // type: 'module',
-        src: 'js/jquery.pagepiling.min.js'
-      },
-      {
-        // type: 'module',
-        src: 'js/custom.js'
-      },
+      // {
+      //   // type: 'module',
+      //   src: 'js/particles.min.js',
+      //   body: true
+      // },
+      // {
+      //   // type: 'module',
+      //   src: 'js/app.js',
+      //   body: true
+      // },
+      // {
+      //   // type: 'module',
+      //   src: 'js/jquery.pagepiling.min.js',
+      //   body: true
+      // },
     ]
   },
 

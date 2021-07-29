@@ -33,23 +33,9 @@
                       <li
                         class="filter"
                         data-role="button"
-                        data-filter=".wordpress"
-                      >
-                        Wordpress
-                      </li>
-                      <li
-                        class="filter"
-                        data-role="button"
                         data-filter=".development"
                       >
                         Web Development
-                      </li>
-                      <li
-                        class="filter"
-                        data-role="button"
-                        data-filter=".branding"
-                      >
-                        Branding
                       </li>
                     </ul>
                   </div>
@@ -60,20 +46,14 @@
                 <div class="portfolio-items">
                   <div class="row">
                     <div
-                      class="
-                        column
-                        mix mix_all
-                        graphic
-                        development
-                        wordpress
-                        mb_30
-                        col-md-4 col-lg-4
-                      "
+                      class="column mix mix_all design mb_30 col-md-4 col-lg-4"
                     >
                       <div class="default-portfolio-item">
                         <a
                           href="images/portfolio/truckademy.png"
                           data-fancybox="gallery"
+                          id="truckademy"
+                          data-website="http://www.truckademy.com"
                         >
                           <img
                             src="images/portfolio/truckademy.png"
@@ -85,8 +65,7 @@
                             ></span>
                             <div class="tag">
                               <ul>
-                                <li>Web Development,</li>
-                                <li>wordpress</li>
+                                <li>HTML, CSS, Javascript</li>
                               </ul>
                             </div>
                           </div>
@@ -97,8 +76,7 @@
                       class="
                         column
                         mix mix_all
-                        graphic
-                        branding
+                        development
                         mb_30
                         col-md-4 col-lg-4
                       "
@@ -115,8 +93,7 @@
                             ></span>
                             <div class="tag">
                               <ul>
-                                <li>Branding,</li>
-                                <li>Wordpress</li>
+                                <li>Laravel, VueJS, Zurb Foundation</li>
                               </ul>
                             </div>
                           </div>
@@ -127,8 +104,6 @@
                       class="
                         column
                         mix mix_all
-                        design
-                        wordpress
                         development
                         mb_30
                         col-md-4 col-lg-4
@@ -149,8 +124,15 @@
                             ></span>
                             <div class="tag">
                               <ul>
-                                <li>Web Design,</li>
-                                <li>Web Development</li>
+                                <li>Laravel</li>
+                                <li>|</li>
+                                <li>
+                                  <a
+                                    href="https://klasconnect.com/"
+                                    target="_blank"
+                                    >Visit Site</a
+                                  >
+                                </li>
                               </ul>
                             </div>
                           </div>
@@ -269,3 +251,17 @@
     </script>
   </div>
 </template>
+<script>
+export default {
+  head() {
+    return {
+      script: [
+        {
+          src: 'js/custom/fancy-box.js',
+          body: true,
+        },
+      ],
+    }
+  },
+}
+</script>

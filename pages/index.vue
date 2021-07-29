@@ -18,9 +18,9 @@
           <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         </ol>
-        <div class="carousel-inner overlay_three">
+        <div class="carousel-inner">
           <div class="carousel-item active">
-            <div class="overlay_one pattan dark-img">
+            <div class="pattan dark-img">
               <img class="" src="images/slider/01.jpeg" alt="slide image" />
             </div>
             <div class="carousel-caption">
@@ -49,13 +49,13 @@
                 <span class="badge badge-danger">MVC</span>
                 <span class="badge badge-light">RestAPIs</span>
               </p>
-              <NuxtLink to="/resume" class="btn btn-default"
+              <NuxtLink to="/resume" class="btn btn-default mt_30"
                 >View my Resume</NuxtLink
               >
             </div>
           </div>
-          <div class="carousel-item">
-            <div class="overlay_one pattan dark-img">
+          <div id="about" class="carousel-item">
+            <div class="pattan dark-img">
               <img src="images/slider/02.jpg" alt="slide image" />
             </div>
             <div class="carousel-caption">
@@ -64,32 +64,29 @@
                 <h2 class="color_default">SOFTWARE DEVELOPER</h2>
               </h1>
               <p class="mb_20">
-                Risus faucibus mollis velit sollicitudin consequat inceptos
-                dictum. Cras quis amet dui inceptos varius, faucibus bibendum
-                fringilla sodales mauris tortor lacus vitae sagittis consequat
-                dapibus consequat justo nostra.
+                I am an enthusiast of programming and anything related to
+                engineering and technology. Get to know more about me ...
               </p>
-              <NuxtLink class="btn btn-default" to="/contact"
-                >Contact Me</NuxtLink
-              >
+              <NuxtLink class="btn btn-default" to="/about">About Me</NuxtLink>
             </div>
           </div>
           <div class="carousel-item">
-            <div class="overlay_one pattan dark-img">
+            <div class="pattan dark-img">
               <img src="images/slider/03.png" alt="slide image" />
             </div>
             <div class="carousel-caption">
               <h1 class="mb_20">
-                kAwesome solution<br />
-                for <span class="color_default">you Business</span>
+                Want to have a talk<br />
+                with <span class="color_default">me ?</span>
               </h1>
               <p class="mb_20">
-                Risus faucibus mollis velit sollicitudin consequat inceptos
-                dictum. Cras quis amet dui inceptos varius, faucibus bibendum
-                fringilla sodales mauris tortor lacus vitae sagittis consequat
-                dapibus consequat justo nostra.
+                Shoot me a message anytime,<br />
+                by clicking the button below. I will respond as soon as
+                possible.
               </p>
-              <a class="btn btn-default" href="#">Start a Project</a>
+              <NuxtLink class="btn btn-default" to="/contact"
+                >Contact Me</NuxtLink
+              >
             </div>
           </div>
         </div>
@@ -103,8 +100,17 @@
 export default {}
 </script>
 <style scoped>
-.dark-img::before {
-  z-index: 1;
-  background: rgba(41, 41, 41, 0.4);
+.carousel-caption h1 {
+  -webkit-text-stroke: 0.3px #000000;
+}
+
+#about .carousel-caption p {
+  padding: 20px;
+  background: linear-gradient(
+    130deg,
+    rgb(30 39 61) 0%,
+    rgba(71, 163, 59, 1) 81%,
+    rgb(142 203 0 / 13%) 100%
+  );
 }
 </style>

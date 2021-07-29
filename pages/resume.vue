@@ -160,9 +160,7 @@
                       <h4 class="color_primary font-weight-bold">
                         Web Developer
                       </h4>
-                      <h6 class="color_primary font-weight-bold">
-                        <a href="">Freelance</a>
-                      </h6>
+                      <h6 class="color_primary font-weight-bold">Freelance</h6>
                       <span class="color_secondery">JUL 2016 - FEB 2017</span>
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
@@ -188,7 +186,7 @@
                         Engineering Trainee and Instructor
                       </h4>
                       <h6 class="color_primary font-weight-bold">
-                        <a href="">National Service (NYSC)</a>
+                        National Service (NYSC)
                       </h6>
                       <span class="color_secondery">JUL 2015 -MAY 2016</span>
                     </div>
@@ -223,17 +221,20 @@
                       <h4 class="color_primary font-weight-bold">
                         Bachelor's Degree
                       </h4>
+                      <h6>Electrical/Electronics Engineering</h6>
                       <h6 class="color_primary font-weight-bold">
                         University of Lagos | Lagos, Nigeria
                       </h6>
                       <span class="color_secondery">OCT 2009 - FEB 2015</span>
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
-                      <!-- <div class="image-block"> -->
                       <a href="https://unilag.edu.ng" target="_blank"
                         ><img src="images/unilag_logo.png" alt="image"
                       /></a>
-                      <!-- </div> -->
+                      <br /><br />
+                      <a href="OLATUNJI_AFOLABI_BSC_CERT.pdf" target="_blank">
+                        <i class="fa fa-link"></i> View Certificate</a
+                      >
                     </div>
                   </div>
                 </div>
