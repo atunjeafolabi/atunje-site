@@ -95,7 +95,8 @@
                     <div class="video_content">
                       <h2 class="color_default">See me speaking ...</h2>
                       <p class="color_white">
-                        A short video introcution about myself.
+                        A short video introcution about myself. <br />
+                        WATCH OUT: I will add a video of myself speaking soon
                       </p>
                     </div>
                   </div>

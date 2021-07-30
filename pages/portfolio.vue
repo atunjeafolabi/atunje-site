@@ -139,7 +139,7 @@
                         </a>
                       </div>
                     </div>
-                    <div
+                    <!-- <div
                       class="
                         column
                         mix mix_all
@@ -169,8 +169,8 @@
                           </div>
                         </a>
                       </div>
-                    </div>
-                    <div
+                    </div> -->
+                    <!-- <div
                       class="
                         column
                         mix mix_all
@@ -200,8 +200,8 @@
                           </div>
                         </a>
                       </div>
-                    </div>
-                    <div
+                    </div> -->
+                    <!-- <div
                       class="
                         column
                         mix mix_all
@@ -231,7 +231,7 @@
                           </div>
                         </a>
                       </div>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </div>
