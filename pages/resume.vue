@@ -229,7 +229,7 @@
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <a href="https://unilag.edu.ng" target="_blank"
-                        ><img src="images/unilag_logo.png" alt="image"
+                        ><img src="images/UNILAG_LOGO.png" alt="Unilag Logo"
                       /></a>
                       <br /><br />
                       <a href="OLATUNJI_AFOLABI_BSC_CERT.pdf" target="_blank">
@@ -255,7 +255,7 @@
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <div class="image-block">
                         <a href="https://unilag.edu.ng" target="_blank"
-                          ><img src="images/unilag_logo.png" alt="image"
+                          ><img src="images/unilag_logo.png" alt="Unilag Logo"
                         /></a>
                       </div>
                     </div>
