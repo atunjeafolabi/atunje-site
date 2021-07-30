@@ -8,7 +8,10 @@
 		    				================================-->
             <div class="main_title pb_60">
               <h2 class="title color_primary">Contact</h2>
-              <p class="mt_15">Reach me via phone, email or drop a message</p>
+              <p class="mt_15">
+                Reach me via phone or email for now. <br />
+                The contact form is not yet working. Thank you
+              </p>
             </div>
             <!--	End Title
 		    				================================-->

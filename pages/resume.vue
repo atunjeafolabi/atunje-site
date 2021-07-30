@@ -255,7 +255,7 @@
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <div class="image-block">
                         <a href="https://unilag.edu.ng" target="_blank"
-                          ><img src="images/unilag_logo.png" alt="Unilag Logo"
+                          ><img src="images/UNILAG_LOGO.png" alt="Unilag Logo"
                         /></a>
                       </div>
                     </div>
