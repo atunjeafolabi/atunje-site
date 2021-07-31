@@ -5,12 +5,12 @@
         <div class="about2">
           <div class="col-md-12 col-lg-12">
             <div class="row">
-              <div class="col-md-12 col-lg-12 col-xl-4">
+              <div class="col-md-12 col-lg-4 col-xl-4">
                 <div class="overlay_one">
                   <img src="images/atunje.jpeg" alt="image" />
                 </div>
               </div>
-              <div class="col-md-12 col-lg-12 col-xl-8">
+              <div class="col-md-12 col-lg-8 col-xl-8">
                 <div class="about_myself pb_60">
                   <!--	Start Title
 	    								================================-->
@@ -29,26 +29,30 @@
                           like experimenting with various technologies in order
                           to ascertain their merits and shortcomings. Afterward,
                           I find a way to add the worthy ones to my tech arsenal
-                          and also apply them in my day-to-day work to reap
-                          maximum benefits.
+                          and also apply them in day-to-day work.
                         </p>
                         <p>
                           Although I am not a computer science graduate, my
                           engineering background coupled with tenacity has
                           immensely helped me thrive in the software ecosystem.
-                          As an autodidact, I have garnered relevant technical
-                          skills and I am competent enough using mainstream tech
-                          stacks often employed in creating robust, scalable,
-                          and high-performance software systems.
+                          As a matter of fact, I am currently upgrading my
+                          skills in Data structures and algorithms in order to
+                          bridge the gap in my knowledge of fundamental computer
+                          science topics. As an autodidact, I have garnered
+                          relevant technical skills and I am competent enough
+                          using mainstream tech stacks often employed in
+                          creating robust, scalable, and high-performance
+                          software systems.
                         </p>
                         <h4 class="mt-4">INTERESTS</h4>
                         <p>
-                          Aside from coding, I like dabbling into other
-                          technical domains like electrical, mechanical and
-                          plumbing repairs. As a strong enthusiast of DIY, I am
-                          always excited to fix faulty electrical connections
-                          and gadgets or fix broken pipes, taps etc. I also like
-                          doing some Sudoku puzzles whenever I have free time.
+                          Aside from coding, I like reading articles on
+                          astronomy. Technical domains like electrical,
+                          mechanical and plumbing also interests me. As a strong
+                          enthusiast of DIY, I am always excited to fix faulty
+                          electrical connections and gadgets or broken pipes,
+                          taps etc. I also like doing some Sudoku puzzles
+                          whenever I have free time.
                         </p>
                         <h4 class="mt-4">MUSIC</h4>
                         <p>

@@ -6,7 +6,7 @@
         >&times;</a
       >
       <img
-        class="nav-logo rounded-circle"
+        class="nav-logo rounded-circle d-lg-block d-sm-block"
         src="images/atunje.jpeg"
         alt="image"
         style="width: 64px; height: 64px"
@@ -32,7 +32,7 @@
     </div>
     <div class="sidebar bg_primary">
       <img
-        class="nav-logo rounded-circle d-none d-sm-block"
+        class="nav-logo rounded-circle d-lg-block d-none"
         src="images/atunje.jpeg"
         alt="image"
         style="width: 64px; height: auto"
@@ -93,6 +93,10 @@
   </div>
 </template>
 <style scoped>
+.sidebar {
+  width: 100px;
+}
+
 #mysidenav {
   z-index: 9999;
 }

@@ -2173,7 +2173,7 @@ label.radios {
 ============================================================*/
 @media (max-width: 1199px){
   h1 {
-      font-size: 28px;
+      font-size: 40px;
       line-height: 32px;
   }
   h2 {
@@ -2422,14 +2422,14 @@ label.radios {
       margin-left: 40px;
   }
   .pagegilling-mani-banner .mainbanner_content{
-      margin-left: 100px;
-    }
-    .about_myself .main_title p{
-      width: 85%;
-    }
-    .service_one{
-      width: 80%
-    }
+    margin-left: 100px;
+  }
+  .about_myself .main_title p{
+    width: 85%;
+  }
+  .service_one{
+    width: 80%
+  }
 }
 
 /*
@@ -2480,6 +2480,10 @@ label.radios {
   .contact_message{
     margin-top: 50px;
   }
+  #content {
+    margin-top: 55px;
+    margin-left: 0 !important;
+  }
   
 /*  horizontal and vertical version responsive css */
   .banner_title {
@@ -2492,22 +2496,23 @@ label.radios {
       margin-bottom: 20px;
   }
   .socal_media{
-    margin-top: 20px;
+    display: none;
+    /* margin-top: 20px; */
   }
   .socal_media ul li a{
     width: 30px;
-      height: 30px;
-      line-height: 28px;
-      text-align: center;
-      border-radius: 50%;
-      border: 2px solid;
-      font-size: 11px;
+    height: 30px;
+    line-height: 28px;
+    text-align: center;
+    border-radius: 50%;
+    border: 2px solid;
+    font-size: 11px;
   }
   .carousel-caption{
     top: 40%;
   }
   .contact_massage{
-    top: 20px;
+    top: 0px;
     width: 50px;
     height: 50px;
   }
@@ -2524,7 +2529,7 @@ label.radios {
     left: 15%;
   }
   h1 {
-      font-size: 20px;
+      font-size: 30px;
       line-height: 24px;
   }
   h2 {
@@ -2544,7 +2549,12 @@ label.radios {
       font-size: 12px;
   }
   .sidebar {
-      padding: 15px 10px;
+    width: 100% !important;
+    height: 55px;
+    padding: 15px 10px;
+  }
+  .sidebar span {
+    float: left;
   }
   .main_title p{
     width: 90%;
@@ -2646,13 +2656,13 @@ label.radios {
   .sidebar {
 	    padding: 10px 15px;
 	    height: 55px;
-	    /* width: 115px; */
+	    width: 100% !important;
   }
   .sidebar .logo{
   	float: left;
   }
   .sidebar span{
-  	float: right;
+  	float: left;
   }
   .about_myskill h2{
     font-size: 24px;
@@ -2661,15 +2671,15 @@ label.radios {
     background-color: #818181;
   }
   h1{
-    font-size: 20px;
-    line-height: 24px;
+    font-size: 40px;
+    line-height: 34px;
   }
   h2 {
-      font-size: 18px;
+      font-size: 22px;
       line-height: 23px;
   }
   h3 {
-      font-size: 17px;
+      font-size: 20px;
       line-height: 22px;
   }
   .btn {
@@ -2770,8 +2780,8 @@ label.radios {
     font-size: 14px;
   }
   h1 {
-      font-size: 18px;
-      line-height: 22px;
+      font-size: 30px;
+      line-height: 28px;
   }
 
   .main_nav{
@@ -2797,8 +2807,8 @@ label.radios {
   }
 /*  horizontal and vertical version responsive css */
   .carousel-caption p{
-    font-size: 13px;
-    line-height: 18px;
+    font-size: 15px;
+    line-height: 25px;
   }
   .socal_media ul li a{
     width: 40px;

@@ -1,7 +1,7 @@
 <template>
   <div id="services" class="section bg_white">
     <div class="container">
-      <div class="services my_60">
+      <div class="services pt_60">
         <div class="row">
           <div class="col-md-12 col-lg-12">
             <div class="main_title pb_60">
