@@ -105,16 +105,16 @@
                     ></textarea>
                   </div>
                 </div>
-                <div class="col-md-12 col-lg-12">
+                <!-- <div class="col-md-12 col-lg-12">
                   <div class="form-group">
                     <input
                       class="btn btn-default"
                       id="send"
-                      value="Send Massage"
+                      value="Send Message"
                       type="submit"
                     />
                   </div>
-                </div>
+                </div> -->
                 <div class="col-md-12 col-lg-12">
                   <div class="error-handel">
                     <div id="success">
