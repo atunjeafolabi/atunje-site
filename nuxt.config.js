@@ -19,34 +19,34 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/images/favicon.ico' },
-      { rel: 'stylesheet', href: 'css/bootstrap.min.css' },
+      { rel: 'stylesheet', href: '/css/bootstrap.min.css' },
       // { rel: 'stylesheet', href: 'css/jquery.pagepiling.css' },
-      { rel: 'stylesheet', href: 'css/fontawesome-free/css/fontawesome.min.css' },
-      { rel: 'stylesheet', href: 'css/fontawesome-free/css/all.min.css' },
-      { rel: 'stylesheet', href: 'fonts/flaticon.css' },
-      { rel: 'stylesheet', href: 'css/plugins.css' },
-      { rel: 'stylesheet', href: 'css/style.css' },
-      { rel: 'stylesheet', href: 'css/color.css' },
+      { rel: 'stylesheet', href: '/css/fontawesome-free/css/fontawesome.min.css' },
+      { rel: 'stylesheet', href: '/css/fontawesome-free/css/all.min.css' },
+      { rel: 'stylesheet', href: '/fonts/flaticon.css' },
+      { rel: 'stylesheet', href: '/css/plugins.css' },
+      { rel: 'stylesheet', href: '/css/style.css' },
+      { rel: 'stylesheet', href: '/css/color.css' },
     ],
     script: [
       {
         // type: 'module',
-        src: 'js/jquery.min.js',
+        src: '/js/jquery.min.js',
         body: true
       },
       {
         // type: 'module',
-        src: 'js/popper.min.js',
+        src: '/js/popper.min.js',
         body: true
       },
       {
         // type: 'module',
-        src: 'js/bootstrap.min.js',
+        src: '/js/bootstrap.min.js',
         body: true
       },
       {
         // type: 'module',
-        src: 'js/plugins.js',
+        src: '/js/plugins.js',
         body: true
       },
       // {
