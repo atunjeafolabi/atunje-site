@@ -41,26 +41,8 @@
                           science topics. As an autodidact, I have garnered
                           relevant technical skills and I am competent enough
                           using mainstream tech stacks often employed in
-                          creating robust, scalable, and high-performance
+                          creating robust and high-performance
                           software systems.
-                        </p>
-                        <h4 class="mt-4">INTERESTS</h4>
-                        <p>
-                          Aside from coding, I like reading articles on
-                          astronomy. Technical domains like electrical,
-                          mechanical and plumbing also interests me. As a strong
-                          enthusiast of DIY, I am always excited to fix faulty
-                          electrical connections and gadgets or broken pipes,
-                          taps etc. I also like doing some Sudoku puzzles
-                          whenever I have free time.
-                        </p>
-                        <h4 class="mt-4">MUSIC</h4>
-                        <p>
-                          Indie folk, Orchestral Symphonies, New Age and
-                          Traditional Nigerian Music are genres I enjoy the
-                          most. Particularly, I love the euphonious sound of the
-                          Cathedral Pipe Organ; the king of all music
-                          instruments
                         </p>
                         <h4 class="mt-4">PERSONAL QUALITIES</h4>
                         <ol>
@@ -73,11 +55,55 @@
                           <li>
                             Analytic ability and Effective time management
                           </li>
-                          <li>
-                            Excellent oral and written communication Teamwork
-                          </li>
+                          <li>Excellent oral and written communication</li>
                           <li>Teamwork</li>
                         </ol>
+                        <h4 class="mt-4">INTERESTS</h4>
+                        <p>
+                          Aside from coding, I like reading articles on
+                          astronomy. Technical domains like electrical,
+                          mechanical and plumbing also interests me. As a strong
+                          enthusiast of DIY, I am always excited to fix faulty
+                          electrical connections and gadgets or broken pipes,
+                          taps etc. I also like doing some Sudoku puzzles
+                          whenever I have free time.
+                        </p>
+                        <h4 class="mt-4">MUSIC</h4>
+                        <p>
+                          The style of songs I enjoy include:
+                          <ol>
+                            <li>Indie folk</li>
+                            <li>Orchestral, Symphony</li>
+                            <li>New Age</li>
+                            <li>Gregorian Chants</li>
+                            <li>Catholic Hymns</li>
+                            <li>Latin Hymns</li>
+                            <li>Yoruba, Igbo Hymns</li>
+                            <li>Traditional Nigerian masterpieces</li>
+                            <li>House</li>
+                            <li>Rock</li>
+                          </ol>
+                          Famous musicians I constinuouly listen to include:
+                          <ol>
+                            <li>Hans Zimmer</li>
+                            <li>Ludovico Einaudi</li>
+                            <li>Coldplay</li>
+                            <li>Of Monsters and Men</li>
+                            <li>Arcade Fire</li>
+                            <li>ERA</li>
+                            <li>Enya</li>
+                            <li>Owl City</li>
+                            <li>Dido</li>
+                            <li>Kwam 1</li>
+                            <li>Asha</li>
+                            <li>Dr Orlando Owoh</li>
+                            <li>Fela</li>
+                            <li>.. etc</li>
+                          </ol>
+                          Particularly, I love the euphonious sound of the
+                          Cathedral Pipe Organ; the king of all music
+                          instruments.
+                        </p>
                       </div>
                     </div>
                   </div>

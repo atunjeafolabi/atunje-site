@@ -57,7 +57,7 @@
           </li>
           <li>
             <a
-              href="https://linkedin.com/in/afolabi-olatunji-b4348b70"
+              href="https://linkedin.com/in/olatunji-afolabi-b4348b70"
               target="_blank"
               ><i class="fab fa-linkedin" aria-hidden="true"></i
             ></a>
