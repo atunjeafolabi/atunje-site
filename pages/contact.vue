@@ -39,7 +39,7 @@
                   <div class="contact_text">
                     <h6 class="font-weight-bold color_primary">EMAIL</h6>
                     <span class="color_secondery"
-                      >atunje_afolabi@yahoo.com</span
+                      >at******labi@yahoo.com</span
                     >
                   </div>
                 </li>
