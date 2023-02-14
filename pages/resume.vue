@@ -66,20 +66,10 @@
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <ol type="i">
                         <li>
-                          Enhancement of existing features for the compnay's
-                          ﬂagship product - Learning Management System
-                        </li>
-                        <li>
-                          Development of new features using Laravel framework
-                          and jquery.
-                        </li>
-                        <li>
-                          Proper documentation and testing of newly developed
-                          features.
-                        </li>
-                        <li>
-                          Continuous refactoring of the codebase to enhance
-                          readability
+                          I helped deliver a Learning Management Platform facilitating instructor and student 
+                          interaction through subject material sharing. It supported a grading system feature 
+                          with CSV import and a forum/discussion thread. It is used in 10 schools with 2000+ 
+                          HighSchool students and teachers in Nigeria.
                         </li>
                       </ol>
                     </div>
@@ -97,7 +87,7 @@
                       </h4>
                       <h6 class="color_primary font-weight-bold">
                         <a href="https://www.pagesurfer.de/" target="_blank"
-                          >Edeco Technology Limited | Lagos, Nigeria</a
+                          >Edeco Technology Limited (Pagesurfer) | Lagos, Nigeria</a
                         >
                       </h6>
                       <span class="color_secondery">JUL 2019 - JUL 2020</span>
@@ -166,10 +156,13 @@
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <ol type="i">
                         <li>
-                          Developed websites for individuals and also assisted
-                          shops and small companies in having an online presence
-                          by building custom web applications to support their
-                          businesses.
+                          I assisted small organizations in having an online presence by building custom 
+                          web applications to support their businesses and automate repetitive tasks.
+                        </li>
+                        <li>
+                          During this period, I honed my interpersonal skills and I developed the habit 
+                          of discipline, honesty, and trustworthiness in order to fulfill contractual 
+                          agreements between me and my clients
                         </li>
                       </ol>
                     </div>
