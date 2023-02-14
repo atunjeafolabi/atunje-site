@@ -50,25 +50,37 @@
                     >
                       <div class="default-portfolio-item">
                         <a
-                          href="images/portfolio/truckademy.png"
+                          href="images/portfolio/estate-intel-page.jpeg"
                           data-fancybox="gallery"
                           id="truckademy"
-                          data-website="http://www.truckademy.com"
+                          data-website="http://www.estateintel.com"
                         >
                           <img
-                            src="images/portfolio/truckademy.png"
+                            src="images/portfolio/estate-intel-page.jpeg"
                             alt="image"
                           />
                           <div class="overlay-box">
-                            <span
-                              ><i class="fa fa-eye" aria-hidden="true"></i
-                            ></span>
                             <div class="tag">
                               <ul>
-                                <li>HTML, CSS, Javascript</li>
+                                <li>Tech Used:</li>
+                                <li>Laravel</li>
+                                <li> | </li>
+                                <li>Vue</li>
+                                <li> | </li>
+                                <li>Nuxt</li>
+                                <li> | </li>
+                                <li>TailwindCSS</li>
+                                <li> | </li>
+                                <li>Algolia</li>
                               </ul>
                             </div>
                           </div>
+                        </a>
+                      </div>
+                      <div>
+                        <a href="https://estateintel.com" target="_blank">
+                        View Site 
+                        <i class="fas fa-solid fa-arrow-right"></i>
                         </a>
                       </div>
                     </div>
@@ -88,15 +100,28 @@
                         >
                           <img src="images/portfolio/roast.png" alt="image" />
                           <div class="overlay-box">
-                            <span
+                            <!-- <span
                               ><i class="fa fa-eye" aria-hidden="true"></i
-                            ></span>
+                            ></span> -->
                             <div class="tag">
                               <ul>
-                                <li>Laravel, VueJS, Zurb Foundation</li>
+                                <li>Tech Used:</li>
+                                <li>Laravel</li>
+                                <li> | </li>
+                                <li>VueJS</li>
+                                <li> | </li>
+                                <li>Zurb Foundation</li>
+                                <li> | </li>
+                                <li>GoogleMaps</li>
                               </ul>
                             </div>
                           </div>
+                        </a>
+                      </div>
+                      <div >
+                        <a href="https://roastcoffee.atunje.com" target="_blank" style="margin-top: 10px;">
+                        View Site 
+                        <i class="fas fa-solid fa-arrow-right"></i>
                         </a>
                       </div>
                     </div>
@@ -119,23 +144,63 @@
                             alt="image"
                           />
                           <div class="overlay-box">
+                            <div class="tag">
+                              <ul>
+                                <li>Tech Used:</li>
+                                <li>Laravel</li>
+                                <li> | </li>
+                                <li>Mysql</li>
+                                <li> | </li>
+                                <li>Bootstrap</li>
+                              </ul>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div>
+                        <a href="https://klasconnect.com/" target="_blank" style="margin-top: 10px;">
+                        View Site 
+                        <i class="fas fa-solid fa-arrow-right"></i>
+                        </a>
+                      </div>
+                    </div>
+                    <div
+                      class="column mix mix_all design mb_30 col-md-4 col-lg-4"
+                    >
+                      <div class="default-portfolio-item">
+                        <a
+                          href="images/portfolio/truckademy.png"
+                          data-fancybox="gallery"
+                          id="truckademy"
+                          data-website="http://www.truckademy.com"
+                        >
+                          <img
+                            src="images/portfolio/truckademy.png"
+                            alt="image"
+                          />
+                          <div class="overlay-box">
                             <span
                               ><i class="fa fa-eye" aria-hidden="true"></i
                             ></span>
                             <div class="tag">
                               <ul>
-                                <li>Laravel</li>
-                                <li>|</li>
-                                <li>
-                                  <a
-                                    href="https://klasconnect.com/"
-                                    target="_blank"
-                                    >Visit Site</a
-                                  >
-                                </li>
+                                <li>Tech Used:</li>
+                                <li>HTML</li>
+                                <li> | </li>
+                                <li>CSS</li>
+                                <li> | </li>
+                                <li>Bootstrap</li>
+                                <li> | </li>
+                                <li>JS</li>
                               </ul>
                             </div>
                           </div>
+                        </a>
+                      </div>
+                      <div>
+                        <a href="https://thetruckademy.com/" target="_blank" style="margin-top: 10px;">
+                        View Site 
+                        <i class="fas fa-solid fa-arrow-right"></i>
                         </a>
                       </div>
                     </div>
