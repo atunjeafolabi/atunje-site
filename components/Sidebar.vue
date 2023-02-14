@@ -46,11 +46,6 @@
             ></a>
           </li>
           <li>
-            <a href="https://web.facebook.com/tunji.afolabi2/" target="_blank"
-              ><i class="fab fa-facebook" aria-hidden="true"></i
-            ></a>
-          </li>
-          <li>
             <a href="https://twitter.com/atunje_afo" target="_blank"
               ><i class="fab fa-twitter" aria-hidden="true"></i
             ></a>

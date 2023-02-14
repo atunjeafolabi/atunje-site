@@ -51,9 +51,7 @@
             </div>
             <h3 class="font-weight-bold color_primary">Javascript</h3>
             <p>
-              I have about 4 years of experience with Javascript. Also, I have
-              used jQuery to add interaction to pages when unnecessary reload is
-              not needed.
+              I have about 5 years of experience with Javascript.
             </p>
           </div>
           <div class="service_one text-center p_30">
@@ -63,7 +61,7 @@
             </div>
             <h3 class="font-weight-bold color_primary">Vuejs</h3>
             <p>
-              I have about 2 years experience with VueJS in crafting awesome
+              I have about 3 years experience with VueJS in crafting awesome
               frontend applications.
             </p>
           </div>
@@ -130,8 +128,8 @@
             </div>
             <h3 class="font-weight-bold color_primary">Docker</h3>
             <p>
-              I understand the basics of Docker and I use it. However, I am
-              still very much improving my skills in this area.
+              I am familiar and have experience with docker.
+              Dockerizing PHP web applications.
             </p>
           </div>
           <div class="service_one text-center p_30">
