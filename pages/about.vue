@@ -14,7 +14,7 @@
                 <div class="about_myself pb_60">
                   <!--	Start Title
 	    								================================-->
-                  <div class="main_title my_60">
+                  <div class="main_title" style="margin-bottom: 20px;">
                     <h2 class="title color_primary">About Me</h2>
                     <p class="mt_15">Fullstack Software Developer</p>
                   </div>
@@ -24,24 +24,15 @@
                     <div class="col-md-12 col-lg-12">
                       <div class="myself">
                         <p>
-                          I am an enthusiast of programming and anything related
-                          to engineering and technology. As a matter of fact, I
-                          like experimenting with various technologies in order
-                          to ascertain their merits and shortcomings. Afterward,
-                          I find a way to add the worthy ones to my tech arsenal
-                          and also apply them in day-to-day work.
+                          I am an enthusiast of programming and anything related to engineering and technology. 
+                          As a matter of fact, I like experimenting with various technologies in order to ascertain 
+                          their merits and shortcomings. Afterward, I find a way to add the worthy ones to my tech arsenal 
+                          and also apply them.
                         </p>
-                        <p>
-                          Although I am not a computer science graduate, my
-                          engineering background coupled with tenacity has
-                          immensely helped me thrive in the software ecosystem.
-                          As a matter of fact, I am currently upgrading my
-                          skills in Data structures and algorithms in order to
-                          bridge the gap in my knowledge of fundamental computer
-                          science topics. As an autodidact, I have garnered
-                          relevant technical skills and I am competent enough
-                          using mainstream tech stacks often employed in
-                          creating robust and high-performance
+                        <p>                      
+                          Although I did not major in computer science, my engineering background coupled with tenacity has 
+                          helped me thrive in the software ecosystem. As an autodidact, I have garnered relevant technical skills
+                          and I am competent enough using mainstream tech stacks often employed in creating robust and high-performance 
                           software systems.
                         </p>
                         <h4 class="mt-4">PERSONAL QUALITIES</h4>
@@ -125,8 +116,7 @@
                     <div class="video_content">
                       <h2 class="color_default">See me speaking ...</h2>
                       <p class="color_white">
-                        A short video introcution about myself. <br />
-                        WATCH OUT: I will add a video of myself speaking soon
+                        COMING SOON: I will add a video of myself speaking.
                       </p>
                     </div>
                   </div>
