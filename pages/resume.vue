@@ -66,10 +66,12 @@
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <ol type="i">
                         <li>
-                          I helped deliver a Learning Management Platform facilitating instructor and student 
-                          interaction through subject material sharing. It supported a grading system feature 
-                          with CSV import and a forum/discussion thread. It is used in 10 schools with 2000+ 
-                          HighSchool students and teachers in Nigeria.
+                          I helped deliver a Learning Management Platform
+                          facilitating instructor and student interaction
+                          through subject material sharing. It supported a
+                          grading system feature with CSV import and a
+                          forum/discussion thread. It is used in 10 schools with
+                          2000+ HighSchool students and teachers in Nigeria.
                         </li>
                       </ol>
                     </div>
@@ -87,7 +89,8 @@
                       </h4>
                       <h6 class="color_primary font-weight-bold">
                         <a href="https://www.pagesurfer.de/" target="_blank"
-                          >Edeco Technology Limited (Pagesurfer) | Lagos, Nigeria</a
+                          >Edeco Technology Limited (Pagesurfer) | Lagos,
+                          Nigeria</a
                         >
                       </h6>
                       <span class="color_secondery">JUL 2019 - JUL 2020</span>
@@ -156,12 +159,15 @@
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <ol type="i">
                         <li>
-                          I assisted small organizations in having an online presence by building custom 
-                          web applications to support their businesses and automate repetitive tasks.
+                          I assisted small organizations in having an online
+                          presence by building custom web applications to
+                          support their businesses and automate repetitive
+                          tasks.
                         </li>
                         <li>
-                          During this period, I honed my interpersonal skills and I developed the habit 
-                          of discipline, honesty, and trustworthiness in order to fulfill contractual 
+                          During this period, I honed my interpersonal skills
+                          and I developed the habit of discipline, honesty, and
+                          trustworthiness in order to fulfill contractual
                           agreements between me and my clients
                         </li>
                       </ol>
@@ -238,18 +244,22 @@
                         02.
                       </h1>
                       <h4 class="color_primary font-weight-bold">
-                        Master's Degree (95% complete)
+                        Master's Degree
                       </h4>
                       <h6 class="color_primary font-weight-bold">
                         University of Lagos | Lagos, Nigeria
                       </h6>
-                      <span class="color_secondery">OCT 2018 - 2021</span>
+                      <span class="color_secondery">OCT 2018 - 2020</span>
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <div class="image-block">
                         <a href="https://unilag.edu.ng" target="_blank"
                           ><img src="images/UNILAG_LOGO.png" alt="Unilag Logo"
                         /></a>
+                        <br /><br />
+                        <a href="OLATUNJI_AFOLABI_MSC_CERT.pdf" target="_blank">
+                          <i class="fa fa-link"></i> View Certificate</a
+                        >
                       </div>
                     </div>
                   </div>
