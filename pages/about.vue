@@ -114,7 +114,7 @@
                     <div class="video_content">
                       <h2 class="color_default">See me speaking ...</h2>
                       <p class="color_white">
-                        COMING SOON: I will add a video of myself speaking.
+                        COMING SOON
                       </p>
                     </div>
                   </div>
