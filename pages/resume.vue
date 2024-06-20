@@ -58,6 +58,69 @@
                       </h4>
                       <h6 class="color_primary font-weight-bold">
                         <a href="https://cyberfleetng.com/" target="_blank"
+                          >EOS.UPTRADE GmbH | Hamburg, Germany</a
+                        >
+                      </h6>
+                      <span class="color_secondery">Apr 2023 - Sept 2023</span>
+                    </div>
+                    <div class="col-md-12 col-lg-12 col-xl-4">
+                      <ol type="i">
+                        <li>
+                          Developed business features for the company’s
+                          ticketing suite including a custom PDF receipt
+                          generator that contains a customer’s ride details.
+                        </li>
+                        <li>
+                          Fixed critical bugs on the company's check-in /
+                          check-out (XIXO) mobility ticketing software, fully
+                          covered with unit and functional tests.
+                        </li>
+                      </ol>
+                    </div>
+                  </div>
+                </div>
+                <hr />
+                <div class="company pb_60">
+                  <div class="row">
+                    <div class="col-md-12 col-lg-12 col-xl-4">
+                      <h1 class="color_lightgray font-weight-bold mt_lg_30">
+                        02.
+                      </h1>
+                      <h4 class="color_primary font-weight-bold">
+                        Software Developer
+                      </h4>
+                      <h6 class="color_primary font-weight-bold">
+                        <a href="https://cyberfleetng.com/" target="_blank"
+                          >Metzler vater Digital GmbH | Munich, Germany</a
+                        >
+                      </h6>
+                      <span class="color_secondery">Jan 2022 - Jan 2023</span>
+                    </div>
+                    <div class="col-md-12 col-lg-12 col-xl-4">
+                      <ol type="i">
+                        <li>
+                          Developed a web-based event platform for one of the
+                          company's customers (Daimler Buses). Registered guests
+                          can attend online events via video streaming with chat
+                          capability. It has an admin dashboard for managing
+                          events and it supports 7 languages.
+                        </li>
+                      </ol>
+                    </div>
+                  </div>
+                </div>
+                <hr />
+                <div class="company pb_60">
+                  <div class="row">
+                    <div class="col-md-12 col-lg-12 col-xl-4">
+                      <h1 class="color_lightgray font-weight-bold mt_lg_30">
+                        03.
+                      </h1>
+                      <h4 class="color_primary font-weight-bold">
+                        Software Developer
+                      </h4>
+                      <h6 class="color_primary font-weight-bold">
+                        <a href="https://cyberfleetng.com/" target="_blank"
                           >Cyber Fleet Integrated Limited | Lagos, Nigeria</a
                         >
                       </h6>
@@ -82,7 +145,7 @@
                   <div class="row">
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <h1 class="color_lightgray font-weight-bold mt_lg_30">
-                        02.
+                        04.
                       </h1>
                       <h4 class="color_primary font-weight-bold">
                         Fullstack Developer
@@ -98,12 +161,15 @@
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <ol type="i">
                         <li>
-                          I developed backend API endpoints with the Symfony
-                          framework.
+                          Built a startup idea of an online-learning platform
+                          called “Learnify“ having an instructor/student
+                          management system.
                         </li>
                         <li>
-                          Involved in converting HTML/CSS designs into
-                          functional VueJS app Participated in code reviews
+                          Involved in converting Figma and Adobe XD designs into
+                          functional VueJS app and participated in code reviews
+                          with other team members ensuring clean code is merged
+                          into the main codebase.
                         </li>
                       </ol>
                     </div>
@@ -114,7 +180,7 @@
                   <div class="row">
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <h1 class="color_lightgray font-weight-bold mt_lg_30">
-                        03.
+                        05.
                       </h1>
                       <h4 class="color_primary font-weight-bold">
                         Web Developer
@@ -131,13 +197,13 @@
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <ol type="i">
                         <li>
-                          Involved in daily stand-ups and close collaboration
-                          with the development team for planning new product
-                          features.
+                          Developed a family planning dashboard (FPDashboard)
+                          displaying information using charts about the national
+                          usage of pharmaceutical contraceptives in Nigeria.
                         </li>
                         <li>
-                          Built secure API endpoints using Yii2 (PHP framework)
-                          and did client-side programming using Javascript.
+                          Developed a medium scale e-commerce grocery store for
+                          one of the company’s customers.
                         </li>
                       </ol>
                     </div>
@@ -148,7 +214,7 @@
                   <div class="row">
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <h1 class="color_lightgray font-weight-bold mt_lg_30">
-                        04.
+                        06.
                       </h1>
                       <h4 class="color_primary font-weight-bold">
                         Web Developer
@@ -179,7 +245,7 @@
                   <div class="row">
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <h1 class="color_lightgray font-weight-bold mt_lg_30">
-                        05.
+                        07.
                       </h1>
                       <h4 class="color_primary font-weight-bold">
                         Engineering Trainee and Instructor
