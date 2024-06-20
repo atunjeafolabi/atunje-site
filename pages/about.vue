@@ -25,15 +25,13 @@
                       <div class="myself">
                         <p>
                           I am an enthusiast of programming and anything related to engineering and technology. 
-                          As a matter of fact, I like experimenting with various technologies in order to ascertain 
-                          their merits and shortcomings. Afterward, I find a way to add the worthy ones to my tech arsenal 
-                          and also apply them.
+                          I like experimenting with various technologies to ascertain their merits and shortcomings. 
+                          Afterward, I find a way to add the worthy ones to my tech arsenal and apply them in daily work.
                         </p>
                         <p>                      
-                          Although I did not major in computer science, my engineering background coupled with tenacity has 
-                          helped me thrive in the software ecosystem. As an autodidact, I have garnered relevant technical skills
-                          and I am competent enough using mainstream tech stacks often employed in creating robust and high-performance 
-                          software systems.
+                          My engineering background coupled with tenacity has helped me thrive in the software ecosystem. 
+                          As an autodidact, I have garnered relevant technical skills and I am competent enough using mainstream 
+                          tech stacks often employed in creating robust and high-performance software systems running in production.
                         </p>
                         <h4 class="mt-4">PERSONAL QUALITIES</h4>
                         <ol>
