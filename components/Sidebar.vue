@@ -41,7 +41,9 @@
       <div class="socal_media mt_60">
         <ul>
           <li>
-            <a href="https://github.com/atunjeafolabi " target="_blank"
+            <a
+              href="https://github.com/atunjeafolabi?tab=repositories&type=source"
+              target="_blank"
               ><i class="fab fa-github" aria-hidden="true"></i
             ></a>
           </li>
