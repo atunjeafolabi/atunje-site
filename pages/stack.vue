@@ -18,7 +18,7 @@
             </div>
             <h3 class="font-weight-bold color_primary">PHP</h3>
             <p>
-              I have about 5 years of experience in using PHP for developing web
+              I have about 6 years of experience in using PHP for developing web
               applications.
             </p>
           </div>
@@ -29,7 +29,7 @@
             </div>
             <h3 class="font-weight-bold color_primary">Laravel</h3>
             <p>
-              With about 4 years of experience using Laravel framework, I have
+              With about 6 years of experience using Laravel framework, I have
               built JSON RestAPIs, and traditional web applications
             </p>
           </div>
@@ -40,7 +40,7 @@
             </div>
             <h3 class="font-weight-bold color_primary">Symfony</h3>
             <p>
-              I have about 2 years development experience with Symfony for JSON
+              I have about 4 years development experience with Symfony for JSON
               RestAPIs.
             </p>
           </div>
@@ -50,9 +50,7 @@
               <!-- <span class="flaticon-internet"></span> -->
             </div>
             <h3 class="font-weight-bold color_primary">Javascript</h3>
-            <p>
-              I have about 5 years of experience with Javascript.
-            </p>
+            <p>I have about 6 years of experience with Javascript.</p>
           </div>
           <div class="service_one text-center p_30">
             <div class="srvicon bg_default color_white mx-auto mb_20">
@@ -61,8 +59,19 @@
             </div>
             <h3 class="font-weight-bold color_primary">Vuejs</h3>
             <p>
-              I have about 3 years experience with VueJS in crafting awesome
+              I have about 5 years experience with VueJS in crafting awesome
               frontend applications.
+            </p>
+          </div>
+          <div class="service_one text-center p_30">
+            <div class="srvicon bg_default color_white mx-auto mb_20">
+              <i class="fab fa-react"></i>
+              <!-- <span class="flaticon-editor"></span> -->
+            </div>
+            <h3 class="font-weight-bold color_primary">React</h3>
+            <p>
+              I have 4 years experience with React in building responsive and
+              modular and maintainable frontend user interfaces.
             </p>
           </div>
           <div class="service_one text-center p_30">
@@ -73,7 +82,7 @@
             <h3 class="font-weight-bold color_primary">NodeJS</h3>
             <p>
               I am very much familiar and competent with the NodeJS ecosystem
-              but I haven't used it as much as I have used PHP.
+              building REST APIs.
             </p>
           </div>
           <div class="service_one text-center p_30">
@@ -83,8 +92,8 @@
             </div>
             <h3 class="font-weight-bold color_primary">HTML, CSS</h3>
             <p>
-              CSS frameworks I use in the frontend include Bootstrap and Zurb
-              Foundation.
+              CSS frameworks I use in the frontend include Bootstrap, Tailwind
+              and Zurb Foundation.
             </p>
           </div>
           <div class="service_one text-center p_30">
@@ -128,8 +137,8 @@
             </div>
             <h3 class="font-weight-bold color_primary">Docker</h3>
             <p>
-              I am familiar and have experience with docker.
-              Dockerizing PHP web applications.
+              I am familiar and have experience with docker. Dockerizing PHP web
+              applications.
             </p>
           </div>
           <div class="service_one text-center p_30">
@@ -139,9 +148,17 @@
             </div>
             <h3 class="font-weight-bold color_primary">Java</h3>
             <p>
-              Another language I understand and I continue to improve my skills
-              on. I focus on the JavaEE (web) part of the entire Java ecosystem.
+              Majorly I focus on the JavaEE (web) part of the entire Java
+              ecosystem including the Spring Framework.
             </p>
+          </div>
+          <div class="service_one text-center p_30">
+            <div class="srvicon bg_default color_white mx-auto">
+              <i class="fab fa-aws"></i>
+              <!-- <span class="flaticon-programming"></span> -->
+            </div>
+            <h3 class="font-weight-bold color_primary">AWS</h3>
+            <p>VPC, EC2, S3, EFS, ECS, IAM, Route53 e.t.c and Terraform IaC</p>
           </div>
         </div>
       </div>
