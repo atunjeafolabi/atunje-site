@@ -38,9 +38,7 @@
                   </div>
                   <div class="contact_text">
                     <h6 class="font-weight-bold color_primary">EMAIL</h6>
-                    <span class="color_secondery"
-                      >at******labi@yahoo.com</span
-                    >
+                    <span class="color_secondery">at******labi@yahoo.com</span>
                   </div>
                 </li>
                 <li>
@@ -144,6 +142,7 @@ export default {
           body: true,
         },
       ],
+      title: 'Contact',
     }
   },
 }

@@ -64,13 +64,13 @@
                               <ul>
                                 <li>Tech Used:</li>
                                 <li>Laravel</li>
-                                <li> | </li>
+                                <li>|</li>
                                 <li>Vue</li>
-                                <li> | </li>
+                                <li>|</li>
                                 <li>Nuxt</li>
-                                <li> | </li>
+                                <li>|</li>
                                 <li>TailwindCSS</li>
-                                <li> | </li>
+                                <li>|</li>
                                 <li>Algolia</li>
                               </ul>
                             </div>
@@ -79,8 +79,8 @@
                       </div>
                       <div>
                         <a href="https://estateintel.com" target="_blank">
-                        View Site 
-                        <i class="fas fa-solid fa-arrow-right"></i>
+                          View Site
+                          <i class="fas fa-solid fa-arrow-right"></i>
                         </a>
                       </div>
                     </div>
@@ -107,21 +107,25 @@
                               <ul>
                                 <li>Tech Used:</li>
                                 <li>Laravel</li>
-                                <li> | </li>
+                                <li>|</li>
                                 <li>VueJS</li>
-                                <li> | </li>
+                                <li>|</li>
                                 <li>Zurb Foundation</li>
-                                <li> | </li>
+                                <li>|</li>
                                 <li>GoogleMaps</li>
                               </ul>
                             </div>
                           </div>
                         </a>
                       </div>
-                      <div >
-                        <a href="https://roastcoffee.atunje.com" target="_blank" style="margin-top: 10px;">
-                        View Site 
-                        <i class="fas fa-solid fa-arrow-right"></i>
+                      <div>
+                        <a
+                          href="https://roastcoffee.atunje.com"
+                          target="_blank"
+                          style="margin-top: 10px"
+                        >
+                          View Site
+                          <i class="fas fa-solid fa-arrow-right"></i>
                         </a>
                       </div>
                     </div>
@@ -148,9 +152,9 @@
                               <ul>
                                 <li>Tech Used:</li>
                                 <li>Laravel</li>
-                                <li> | </li>
+                                <li>|</li>
                                 <li>Mysql</li>
-                                <li> | </li>
+                                <li>|</li>
                                 <li>Bootstrap</li>
                               </ul>
                             </div>
@@ -158,9 +162,13 @@
                         </a>
                       </div>
                       <div>
-                        <a href="https://klasconnect.com/" target="_blank" style="margin-top: 10px;">
-                        View Site 
-                        <i class="fas fa-solid fa-arrow-right"></i>
+                        <a
+                          href="https://klasconnect.com/"
+                          target="_blank"
+                          style="margin-top: 10px"
+                        >
+                          View Site
+                          <i class="fas fa-solid fa-arrow-right"></i>
                         </a>
                       </div>
                     </div>
@@ -186,11 +194,11 @@
                               <ul>
                                 <li>Tech Used:</li>
                                 <li>HTML</li>
-                                <li> | </li>
+                                <li>|</li>
                                 <li>CSS</li>
-                                <li> | </li>
+                                <li>|</li>
                                 <li>Bootstrap</li>
-                                <li> | </li>
+                                <li>|</li>
                                 <li>JS</li>
                               </ul>
                             </div>
@@ -198,9 +206,13 @@
                         </a>
                       </div>
                       <div>
-                        <a href="https://thetruckademy.com/" target="_blank" style="margin-top: 10px;">
-                        View Site 
-                        <i class="fas fa-solid fa-arrow-right"></i>
+                        <a
+                          href="https://thetruckademy.com/"
+                          target="_blank"
+                          style="margin-top: 10px"
+                        >
+                          View Site
+                          <i class="fas fa-solid fa-arrow-right"></i>
                         </a>
                       </div>
                     </div>
@@ -326,6 +338,7 @@ export default {
           body: true,
         },
       ],
+      title: 'Portfolio',
     }
   },
 }

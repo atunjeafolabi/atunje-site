@@ -88,7 +88,13 @@
   </div>
 </template>
 <script>
-export default {}
+export default {
+  head() {
+    return {
+      title: 'Atunje | Home',
+    }
+  },
+}
 </script>
 <style scoped>
 .carousel-caption h1,

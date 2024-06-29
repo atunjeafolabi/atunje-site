@@ -338,6 +338,15 @@
     </div>
   </div>
 </template>
+<script>
+export default {
+  head() {
+    return {
+      title: 'Resume | Education',
+    }
+  },
+}
+</script>
 <style>
 #pills-profile .company img {
   width: auto;
