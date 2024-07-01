@@ -25,9 +25,9 @@
         <li data-menuanchor="page5">
           <NuxtLink to="/portfolio">Portfolio</NuxtLink>
         </li>
-        <li data-menuanchor="page5">
+        <!-- <li data-menuanchor="page5">
           <NuxtLink to="/memes">Memes</NuxtLink>
-        </li>
+        </li> -->
         <li data-menuanchor="page10">
           <NuxtLink to="/contact">Contact</NuxtLink>
         </li>
