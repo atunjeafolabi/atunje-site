@@ -57,7 +57,7 @@
                         Software Developer
                       </h4>
                       <h6 class="color_primary font-weight-bold">
-                        <a href="https://cyberfleetng.com/" target="_blank"
+                        <a href="https://www.eos-uptrade.de" target="_blank"
                           >EOS.UPTRADE GmbH | Hamburg, Germany</a
                         >
                       </h6>
@@ -90,7 +90,7 @@
                         Software Developer
                       </h4>
                       <h6 class="color_primary font-weight-bold">
-                        <a href="https://cyberfleetng.com/" target="_blank"
+                        <a href="https://www.metzler-vater.com/" target="_blank"
                           >Metzler vater Digital GmbH | Munich, Germany</a
                         >
                       </h6>
