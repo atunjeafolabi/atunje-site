@@ -157,6 +157,32 @@
             <img src="images/memes/two_weeks_no_reply.png" />
           </div>
         </div>
+        <div class="row">
+          <div class="col-md-5 col-lg-4 mt-5">
+            <div class="contact_info">
+              <img src="images/memes/skip_node_modules.png" />
+            </div>
+          </div>
+          <div class="col-md-7 col-lg-4 mt-5">
+            <img src="images/memes/yaml.png" />
+          </div>
+          <div class="col-md-7 col-lg-4 mt-5">
+            <img src="images/memes/what_is_head.jpeg" />
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-5 col-lg-4 mt-5">
+            <div class="contact_info">
+              <img src="images/memes/emi_lo_kan.png" />
+            </div>
+          </div>
+          <div class="col-md-7 col-lg-4 mt-5">
+            <img src="images/memes/FDD.png" />
+          </div>
+          <div class="col-md-7 col-lg-4 mt-5">
+            <img src="images/memes/das_gift.png" />
+          </div>
+        </div>
       </div>
     </div>
   </div>
