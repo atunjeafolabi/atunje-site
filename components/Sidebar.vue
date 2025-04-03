@@ -51,7 +51,7 @@
             ></a>
           </li>
           <li>
-            <a href="https://twitter.com/atunje_afo" target="_blank"
+            <a href="https://twitter.com/devatunje" target="_blank"
               ><i class="fab fa-twitter" aria-hidden="true"></i
             ></a>
           </li>
