@@ -303,9 +303,9 @@ a:hover,a:focus,a.active{
 .section_title_1{
   width: 60%;
 }
-.main_title p{
+/* .main_title p{
   width: 40%;
-}
+} */
 .line_double{
     position: relative;
     text-transform: lowercase;
