@@ -7,8 +7,10 @@
             <!--	Start Title
 		    				================================-->
             <div class="main_title pb_60">
-              <h2 class="title color_primary">Some Code Memes</h2>
-              <p class="mt_15">Enjoy !</p>
+              <h2 class="title color_primary">Meme Land</h2>
+              <p class="mt_15">
+                Welcome to Meme Land, a repository of handcrafted memes. Enjoy !
+              </p>
             </div>
             <!--	End Title
 		    				================================-->
