@@ -185,6 +185,19 @@
             <img src="images/memes/das_gift.png" />
           </div>
         </div>
+        <div class="row">
+          <div class="col-md-5 col-lg-4 mt-5">
+            <div class="contact_info">
+              <img src="images/memes/git_pbat.png" />
+            </div>
+          </div>
+          <div class="col-md-7 col-lg-4 mt-5">
+            <img src="images/memes/xxx.png" />
+          </div>
+          <div class="col-md-7 col-lg-4 mt-5">
+            <img src="images/memes/xxx.png" />
+          </div>
+        </div>
       </div>
     </div>
   </div>
