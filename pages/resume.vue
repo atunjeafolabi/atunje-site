@@ -124,7 +124,7 @@
                           >Cyber Fleet Integrated Limited | Lagos, Nigeria</a
                         >
                       </h6>
-                      <span class="color_secondery">OCT 2020 - Present</span>
+                      <span class="color_secondery">JUL 2019 - Jan 2022</span>
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <ol type="i">
@@ -141,7 +141,7 @@
                   </div>
                 </div>
                 <hr />
-                <div class="company pb_60">
+                <!--                <div class="company pb_60">
                   <div class="row">
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <h1 class="color_lightgray font-weight-bold mt_lg_30">
@@ -175,7 +175,7 @@
                     </div>
                   </div>
                 </div>
-                <hr />
+                <hr />-->
                 <div class="company pb_60">
                   <div class="row">
                     <div class="col-md-12 col-lg-12 col-xl-4">
@@ -192,7 +192,7 @@
                           >Techie Planet Limited | Lagos, Nigeria</a
                         >
                       </h6>
-                      <span class="color_secondery">MAR 2017 - FEB 2019</span>
+                      <span class="color_secondery">MAR 2016 - FEB 2019</span>
                     </div>
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <ol type="i">
@@ -210,7 +210,7 @@
                   </div>
                 </div>
                 <hr />
-                <div class="company pb_60">
+                <!--<div class="company pb_60">
                   <div class="row">
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <h1 class="color_lightgray font-weight-bold mt_lg_30">
@@ -239,9 +239,9 @@
                       </ol>
                     </div>
                   </div>
-                </div>
+                </div>-->
                 <hr />
-                <div class="company pb_60">
+                <!--<div class="company pb_60">
                   <div class="row">
                     <div class="col-md-12 col-lg-12 col-xl-4">
                       <h1 class="color_lightgray font-weight-bold mt_lg_30">
@@ -269,7 +269,7 @@
                       </ol>
                     </div>
                   </div>
-                </div>
+                </div>-->
               </div>
               <div
                 class="tab-pane fade"
